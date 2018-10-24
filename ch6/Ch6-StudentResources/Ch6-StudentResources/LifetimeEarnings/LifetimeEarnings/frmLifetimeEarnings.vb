@@ -1,5 +1,5 @@
 'Prologue
-'Program has bugs
+'Program has bugs - nonfunctional
 
 Public Class frmLifetimeEarnings
 
