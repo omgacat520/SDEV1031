@@ -1,0 +1,10 @@
+bin\Debug\DateTimeDemo.exe
+bin\Debug\DateTimeDemo.pdb
+bin\Debug\DateTimeDemo.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DateTimeDemo.frmDateTimeDemo.resources
+obj\Debug\DateTimeDemo.Resources.resources
+obj\Debug\DateTimeDemo.vbproj.GenerateResource.Cache
+obj\Debug\DateTimeDemo.exe
+obj\Debug\DateTimeDemo.xml
+obj\Debug\DateTimeDemo.pdb

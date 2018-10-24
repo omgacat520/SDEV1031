@@ -1,0 +1,20 @@
+H:\VB\Cambridge\Chap05\Largest\Largest\obj\Debug\Largest.exe
+H:\VB\Cambridge\Chap05\Largest\Largest\obj\Debug\Largest.xml
+H:\VB\Cambridge\Chap05\Largest\Largest\obj\Debug\Largest.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\Largest\Largest\obj\Debug\Largest.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\Largest\Largest\obj\Debug\Largest.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\Largest\Largest\obj\Debug\Largest.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\Largest\Largest\bin\Debug\Largest.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\Largest\Largest\bin\Debug\Largest.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\Largest\Largest\bin\Debug\Largest.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\Largest\Largest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\Largest\Largest\obj\Debug\Largest.frmLargest.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\Largest\Largest\obj\Debug\Largest.Resources.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\Largest\Largest\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\Largest\Largest\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\Largest\Largest\obj\Debug\Largest.exe
+E:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\Largest\Largest\obj\Debug\Largest.xml
+E:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\Largest\Largest\obj\Debug\Largest.pdb
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\Largest\Largest\obj\Debug\Largest.exe
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\Largest\Largest\obj\Debug\Largest.xml
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\Largest\Largest\obj\Debug\Largest.pdb

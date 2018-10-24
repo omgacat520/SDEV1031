@@ -1,0 +1,20 @@
+E:\DATC\My1031-V2\Projects\RandomNumberDemo\RandomNumberDemo\bin\Debug\RandomNumberDemo.exe
+E:\DATC\My1031-V2\Projects\RandomNumberDemo\RandomNumberDemo\bin\Debug\RandomNumberDemo.pdb
+E:\DATC\My1031-V2\Projects\RandomNumberDemo\RandomNumberDemo\bin\Debug\RandomNumberDemo.xml
+E:\DATC\My1031-V2\Projects\RandomNumberDemo\RandomNumberDemo\obj\x86\Debug\RandomNumberDemo.Form1.resources
+E:\DATC\My1031-V2\Projects\RandomNumberDemo\RandomNumberDemo\obj\x86\Debug\RandomNumberDemo.Resources.resources
+E:\DATC\My1031-V2\Projects\RandomNumberDemo\RandomNumberDemo\obj\x86\Debug\RandomNumberDemo.vbproj.GenerateResource.Cache
+E:\DATC\My1031-V2\Projects\RandomNumberDemo\RandomNumberDemo\obj\x86\Debug\RandomNumberDemo.exe
+E:\DATC\My1031-V2\Projects\RandomNumberDemo\RandomNumberDemo\obj\x86\Debug\RandomNumberDemo.xml
+E:\DATC\My1031-V2\Projects\RandomNumberDemo\RandomNumberDemo\obj\x86\Debug\RandomNumberDemo.pdb
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-RandomNumberDemo\RandomNumberDemo\bin\Debug\RandomNumberDemo.exe
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-RandomNumberDemo\RandomNumberDemo\bin\Debug\RandomNumberDemo.pdb
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-RandomNumberDemo\RandomNumberDemo\bin\Debug\RandomNumberDemo.xml
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-RandomNumberDemo\RandomNumberDemo\obj\x86\Debug\RandomNumberDemo.vbprojAssemblyReference.cache
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-RandomNumberDemo\RandomNumberDemo\obj\x86\Debug\RandomNumberDemo.Form1.resources
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-RandomNumberDemo\RandomNumberDemo\obj\x86\Debug\RandomNumberDemo.Resources.resources
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-RandomNumberDemo\RandomNumberDemo\obj\x86\Debug\RandomNumberDemo.vbproj.GenerateResource.cache
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-RandomNumberDemo\RandomNumberDemo\obj\x86\Debug\RandomNumberDemo.vbproj.CoreCompileInputs.cache
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-RandomNumberDemo\RandomNumberDemo\obj\x86\Debug\RandomNumberDemo.exe
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-RandomNumberDemo\RandomNumberDemo\obj\x86\Debug\RandomNumberDemo.xml
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-RandomNumberDemo\RandomNumberDemo\obj\x86\Debug\RandomNumberDemo.pdb

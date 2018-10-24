@@ -1,0 +1,10 @@
+bin\Debug\PersonalDates.exe
+bin\Debug\PersonalDates.pdb
+bin\Debug\PersonalDates.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PersonalDates.frmPersonalDates.resources
+obj\Debug\PersonalDates.Resources.resources
+obj\Debug\PersonalDates.vbproj.GenerateResource.Cache
+obj\Debug\PersonalDates.exe
+obj\Debug\PersonalDates.xml
+obj\Debug\PersonalDates.pdb

@@ -1,0 +1,10 @@
+bin\Debug\Account Balance.exe
+bin\Debug\Account Balance.pdb
+bin\Debug\Account Balance.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Account_Balance.frmAccountBalance.resources
+obj\Debug\Account_Balance.Resources.resources
+obj\Debug\Account Balance.vbproj.GenerateResource.Cache
+obj\Debug\Account Balance.exe
+obj\Debug\Account Balance.xml
+obj\Debug\Account Balance.pdb

@@ -1,0 +1,26 @@
+H:\VB\Cambridge\Chap05\IfGrades\IfGrades\obj\Debug\IfGrades.exe
+H:\VB\Cambridge\Chap05\IfGrades\IfGrades\obj\Debug\IfGrades.xml
+H:\VB\Cambridge\Chap05\IfGrades\IfGrades\obj\Debug\IfGrades.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\IfGrades\IfGrades\obj\Debug\IfGrades.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\IfGrades\IfGrades\obj\Debug\IfGrades.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\IfGrades\IfGrades\obj\Debug\IfGrades.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\IfGrades\IfGrades\bin\Debug\IfGrades.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\IfGrades\IfGrades\bin\Debug\IfGrades.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\IfGrades\IfGrades\bin\Debug\IfGrades.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\IfGrades\IfGrades\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\IfGrades\IfGrades\obj\Debug\IfGrades.IfGrades.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\IfGrades\IfGrades\obj\Debug\IfGrades.Resources.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\IfGrades\IfGrades\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\IfGrades\IfGrades\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\IfGrades\IfGrades\obj\Debug\IfGrades.exe
+E:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\IfGrades\IfGrades\obj\Debug\IfGrades.xml
+E:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\IfGrades\IfGrades\obj\Debug\IfGrades.pdb
+E:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\IfGrades\IfGrades\bin\Debug\IfGrades.exe
+E:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\IfGrades\IfGrades\bin\Debug\IfGrades.pdb
+E:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\IfGrades\IfGrades\bin\Debug\IfGrades.xml
+E:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\IfGrades\IfGrades\obj\Debug\IfGrades.IfGrades.resources
+E:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\IfGrades\IfGrades\obj\Debug\IfGrades.Resources.resources
+E:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\IfGrades\IfGrades\obj\Debug\IfGrades.vbproj.GenerateResource.Cache
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\IfGrades\IfGrades\obj\Debug\IfGrades.exe
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\IfGrades\IfGrades\obj\Debug\IfGrades.xml
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\IfGrades\IfGrades\obj\Debug\IfGrades.pdb

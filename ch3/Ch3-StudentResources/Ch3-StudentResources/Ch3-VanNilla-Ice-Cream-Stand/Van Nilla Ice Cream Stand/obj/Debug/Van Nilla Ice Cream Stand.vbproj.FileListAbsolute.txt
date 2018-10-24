@@ -1,0 +1,34 @@
+C:\Documents and Settings\DSU\Desktop\New Versions\NewChap03\Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.exe
+C:\Documents and Settings\DSU\Desktop\New Versions\NewChap03\Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.xml
+C:\Documents and Settings\DSU\Desktop\New Versions\NewChap03\Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap03\Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap03\Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap03\Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.pdb
+H:\VB\Cambridge\Chap03\Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.exe
+H:\VB\Cambridge\Chap03\Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.xml
+H:\VB\Cambridge\Chap03\Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\bin\Debug\Van Nilla Ice Cream Stand.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\bin\Debug\Van Nilla Ice Cream Stand.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\bin\Debug\Van Nilla Ice Cream Stand.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\obj\Debug\Van_Nilla_Ice_Cream_Stand.frmIceCream.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\obj\Debug\Van_Nilla_Ice_Cream_Stand.Resources.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Van Nilla Ice Cream Stand\Van Nilla Ice Cream Stand\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\DATC\My1031-V2\Projects\VanNilla-Ice-Cream-Stand - Copy\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.exe
+E:\DATC\My1031-V2\Projects\VanNilla-Ice-Cream-Stand - Copy\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.xml
+E:\DATC\My1031-V2\Projects\VanNilla-Ice-Cream-Stand - Copy\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.pdb
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch3\Ch3-StudentResources\Ch3-StudentResources\Ch3-VanNilla-Ice-Cream-Stand\Van Nilla Ice Cream Stand\bin\Debug\Van Nilla Ice Cream Stand.exe
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch3\Ch3-StudentResources\Ch3-StudentResources\Ch3-VanNilla-Ice-Cream-Stand\Van Nilla Ice Cream Stand\bin\Debug\Van Nilla Ice Cream Stand.pdb
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch3\Ch3-StudentResources\Ch3-StudentResources\Ch3-VanNilla-Ice-Cream-Stand\Van Nilla Ice Cream Stand\bin\Debug\Van Nilla Ice Cream Stand.xml
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch3\Ch3-StudentResources\Ch3-StudentResources\Ch3-VanNilla-Ice-Cream-Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.vbprojAssemblyReference.cache
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch3\Ch3-StudentResources\Ch3-StudentResources\Ch3-VanNilla-Ice-Cream-Stand\Van Nilla Ice Cream Stand\obj\Debug\Van_Nilla_Ice_Cream_Stand.frmIceCream.resources
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch3\Ch3-StudentResources\Ch3-StudentResources\Ch3-VanNilla-Ice-Cream-Stand\Van Nilla Ice Cream Stand\obj\Debug\Van_Nilla_Ice_Cream_Stand.Resources.resources
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch3\Ch3-StudentResources\Ch3-StudentResources\Ch3-VanNilla-Ice-Cream-Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.vbproj.GenerateResource.cache
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch3\Ch3-StudentResources\Ch3-StudentResources\Ch3-VanNilla-Ice-Cream-Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.vbproj.CoreCompileInputs.cache
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch3\Ch3-StudentResources\Ch3-StudentResources\Ch3-VanNilla-Ice-Cream-Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.exe
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch3\Ch3-StudentResources\Ch3-StudentResources\Ch3-VanNilla-Ice-Cream-Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.xml
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch3\Ch3-StudentResources\Ch3-StudentResources\Ch3-VanNilla-Ice-Cream-Stand\Van Nilla Ice Cream Stand\obj\Debug\Van Nilla Ice Cream Stand.pdb

@@ -1,0 +1,20 @@
+C:\Documents and Settings\DSU\Desktop\IfGrades\IfGrades\bin\Debug\IfGrades.exe
+C:\Documents and Settings\DSU\Desktop\IfGrades\IfGrades\bin\Debug\IfGrades.pdb
+C:\Documents and Settings\DSU\Desktop\IfGrades\IfGrades\bin\Debug\IfGrades.xml
+C:\Documents and Settings\DSU\Desktop\IfGrades\IfGrades\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\Desktop\IfGrades\IfGrades\obj\Debug\IfGrades.IfGrades.resources
+C:\Documents and Settings\DSU\Desktop\IfGrades\IfGrades\obj\Debug\IfGrades.Resources.resources
+C:\Documents and Settings\DSU\Desktop\IfGrades\IfGrades\obj\Debug\IfGrades.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\Desktop\IfGrades\IfGrades\obj\Debug\IfGrades.exe
+C:\Documents and Settings\DSU\Desktop\IfGrades\IfGrades\obj\Debug\IfGrades.xml
+C:\Documents and Settings\DSU\Desktop\IfGrades\IfGrades\obj\Debug\IfGrades.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\IfGrades\IfGrades\obj\Debug\IfGrades.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\IfGrades\IfGrades\obj\Debug\IfGrades.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\IfGrades\IfGrades\obj\Debug\IfGrades.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\IfGrades\IfGrades\bin\Debug\IfGrades.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\IfGrades\IfGrades\bin\Debug\IfGrades.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\IfGrades\IfGrades\bin\Debug\IfGrades.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\IfGrades\IfGrades\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\IfGrades\IfGrades\obj\Debug\IfGrades.IfGrades.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\IfGrades\IfGrades\obj\Debug\IfGrades.Resources.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\IfGrades\IfGrades\obj\Debug\IfGrades.vbproj.GenerateResource.Cache

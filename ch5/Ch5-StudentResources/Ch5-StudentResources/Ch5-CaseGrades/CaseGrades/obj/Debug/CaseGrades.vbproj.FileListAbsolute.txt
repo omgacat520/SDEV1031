@@ -1,0 +1,20 @@
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap05\Programs\CaseGrades\CaseGrades\obj\Debug\CaseGrades.exe
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap05\Programs\CaseGrades\CaseGrades\obj\Debug\CaseGrades.xml
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap05\Programs\CaseGrades\CaseGrades\obj\Debug\CaseGrades.pdb
+H:\VB\Cambridge\Chap05\CaseGrades\CaseGrades\obj\Debug\CaseGrades.exe
+H:\VB\Cambridge\Chap05\CaseGrades\CaseGrades\obj\Debug\CaseGrades.xml
+H:\VB\Cambridge\Chap05\CaseGrades\CaseGrades\obj\Debug\CaseGrades.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\CaseGrades\CaseGrades\obj\Debug\CaseGrades.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\CaseGrades\CaseGrades\obj\Debug\CaseGrades.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\CaseGrades\CaseGrades\obj\Debug\CaseGrades.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\CaseGrades\CaseGrades\bin\Debug\CaseGrades.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\CaseGrades\CaseGrades\bin\Debug\CaseGrades.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\CaseGrades\CaseGrades\bin\Debug\CaseGrades.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\CaseGrades\CaseGrades\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\CaseGrades\CaseGrades\obj\Debug\CaseGrades.frmCaseGrades.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\CaseGrades\CaseGrades\obj\Debug\CaseGrades.Resources.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\CaseGrades\CaseGrades\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\CaseGrades\CaseGrades\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\CaseGrades\CaseGrades\obj\Debug\CaseGrades.exe
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\CaseGrades\CaseGrades\obj\Debug\CaseGrades.xml
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\CaseGrades\CaseGrades\obj\Debug\CaseGrades.pdb

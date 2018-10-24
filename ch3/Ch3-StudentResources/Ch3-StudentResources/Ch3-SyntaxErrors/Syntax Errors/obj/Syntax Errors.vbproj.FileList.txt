@@ -1,0 +1,3 @@
+obj\Debug\Syntax Errors.exe
+obj\Debug\Syntax Errors.xml
+obj\Debug\Syntax Errors.pdb

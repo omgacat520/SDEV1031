@@ -1,0 +1,20 @@
+C:\Documents and Settings\DSU\Desktop\Largest\Largest\bin\Debug\Largest.exe
+C:\Documents and Settings\DSU\Desktop\Largest\Largest\bin\Debug\Largest.pdb
+C:\Documents and Settings\DSU\Desktop\Largest\Largest\bin\Debug\Largest.xml
+C:\Documents and Settings\DSU\Desktop\Largest\Largest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\Desktop\Largest\Largest\obj\Debug\Largest.frmLargest.resources
+C:\Documents and Settings\DSU\Desktop\Largest\Largest\obj\Debug\Largest.Resources.resources
+C:\Documents and Settings\DSU\Desktop\Largest\Largest\obj\Debug\Largest.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\Desktop\Largest\Largest\obj\Debug\Largest.exe
+C:\Documents and Settings\DSU\Desktop\Largest\Largest\obj\Debug\Largest.xml
+C:\Documents and Settings\DSU\Desktop\Largest\Largest\obj\Debug\Largest.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\Largest\Largest\obj\Debug\Largest.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\Largest\Largest\obj\Debug\Largest.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\Largest\Largest\obj\Debug\Largest.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\Largest\Largest\bin\Debug\Largest.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\Largest\Largest\bin\Debug\Largest.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\Largest\Largest\bin\Debug\Largest.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\Largest\Largest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\Largest\Largest\obj\Debug\Largest.frmLargest.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\Largest\Largest\obj\Debug\Largest.Resources.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap05\Programs\Largest\Largest\obj\Debug\Largest.vbproj.GenerateResource.Cache

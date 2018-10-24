@@ -1,0 +1,10 @@
+C:\Documents and Settings\DSU\Desktop\CaseGrades\CaseGrades\bin\Debug\CaseGrades.exe
+C:\Documents and Settings\DSU\Desktop\CaseGrades\CaseGrades\bin\Debug\CaseGrades.pdb
+C:\Documents and Settings\DSU\Desktop\CaseGrades\CaseGrades\bin\Debug\CaseGrades.xml
+C:\Documents and Settings\DSU\Desktop\CaseGrades\CaseGrades\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\Desktop\CaseGrades\CaseGrades\obj\Debug\CaseGrades.frmCaseGrades.resources
+C:\Documents and Settings\DSU\Desktop\CaseGrades\CaseGrades\obj\Debug\CaseGrades.Resources.resources
+C:\Documents and Settings\DSU\Desktop\CaseGrades\CaseGrades\obj\Debug\CaseGrades.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\Desktop\CaseGrades\CaseGrades\obj\Debug\CaseGrades.exe
+C:\Documents and Settings\DSU\Desktop\CaseGrades\CaseGrades\obj\Debug\CaseGrades.xml
+C:\Documents and Settings\DSU\Desktop\CaseGrades\CaseGrades\obj\Debug\CaseGrades.pdb

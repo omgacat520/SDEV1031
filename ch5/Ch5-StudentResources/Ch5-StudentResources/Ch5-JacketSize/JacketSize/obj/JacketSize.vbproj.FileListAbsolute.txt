@@ -1,0 +1,10 @@
+C:\Documents and Settings\DSU\Desktop\JacketSize\JacketSize\bin\Debug\JacketSize.exe
+C:\Documents and Settings\DSU\Desktop\JacketSize\JacketSize\bin\Debug\JacketSize.pdb
+C:\Documents and Settings\DSU\Desktop\JacketSize\JacketSize\bin\Debug\JacketSize.xml
+C:\Documents and Settings\DSU\Desktop\JacketSize\JacketSize\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\Desktop\JacketSize\JacketSize\obj\Debug\JacketSize.frmJacketSize.resources
+C:\Documents and Settings\DSU\Desktop\JacketSize\JacketSize\obj\Debug\JacketSize.Resources.resources
+C:\Documents and Settings\DSU\Desktop\JacketSize\JacketSize\obj\Debug\JacketSize.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\Desktop\JacketSize\JacketSize\obj\Debug\JacketSize.exe
+C:\Documents and Settings\DSU\Desktop\JacketSize\JacketSize\obj\Debug\JacketSize.xml
+C:\Documents and Settings\DSU\Desktop\JacketSize\JacketSize\obj\Debug\JacketSize.pdb

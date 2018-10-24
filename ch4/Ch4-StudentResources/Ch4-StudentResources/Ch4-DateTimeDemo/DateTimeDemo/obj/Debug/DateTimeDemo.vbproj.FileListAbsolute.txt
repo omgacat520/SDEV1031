@@ -1,0 +1,35 @@
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap04\Programs\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.exe
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap04\Programs\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.xml
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap04\Programs\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.pdb
+H:\VB\Cambridge\Chap04\Programs\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.exe
+H:\VB\Cambridge\Chap04\Programs\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.xml
+H:\VB\Cambridge\Chap04\Programs\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DateTimeDemo\DateTimeDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.frmDateTimeDemo.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.Resources.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DateTimeDemo\DateTimeDemo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DateTimeDemo\DateTimeDemo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.exe
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.xml
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.pdb
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.pdb
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.xml
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.frmDateTimeDemo.resources
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.Resources.resources
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.vbproj.GenerateResource.Cache
+E:\DATC\My1031-V2\Projects\Ch4-DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.exe
+E:\DATC\My1031-V2\Projects\Ch4-DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.xml
+E:\DATC\My1031-V2\Projects\Ch4-DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.pdb
+E:\DATC\My1031-V2\Projects\Ch4-DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe
+E:\DATC\My1031-V2\Projects\Ch4-DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.pdb
+E:\DATC\My1031-V2\Projects\Ch4-DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.xml
+E:\DATC\My1031-V2\Projects\Ch4-DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.frmDateTimeDemo.resources
+E:\DATC\My1031-V2\Projects\Ch4-DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.Resources.resources
+E:\DATC\My1031-V2\Projects\Ch4-DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.vbproj.GenerateResource.Cache

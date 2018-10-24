@@ -1,0 +1,10 @@
+bin\Debug\Controlling Your Controls.exe
+bin\Debug\Controlling Your Controls.pdb
+bin\Debug\Controlling Your Controls.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Controlling_Your_Controls.ControllingYourControls.resources
+obj\Debug\Controlling_Your_Controls.Resources.resources
+obj\Debug\Controlling Your Controls.vbproj.GenerateResource.Cache
+obj\Debug\Controlling Your Controls.exe
+obj\Debug\Controlling Your Controls.xml
+obj\Debug\Controlling Your Controls.pdb

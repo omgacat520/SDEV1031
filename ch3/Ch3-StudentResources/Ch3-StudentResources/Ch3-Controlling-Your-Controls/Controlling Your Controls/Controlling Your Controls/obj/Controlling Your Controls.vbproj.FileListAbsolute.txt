@@ -1,0 +1,3 @@
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap03\Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap03\Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap03\Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.pdb

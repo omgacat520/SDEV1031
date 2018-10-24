@@ -1,0 +1,10 @@
+C:\Documents and Settings\DSU\Desktop\DiceCaseStudy\DiceCaseStudy\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\Desktop\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.frmDiceCaseStudy.resources
+C:\Documents and Settings\DSU\Desktop\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\Desktop\DiceCaseStudy\DiceCaseStudy\bin\Debug\DiceCaseStudy.exe
+C:\Documents and Settings\DSU\Desktop\DiceCaseStudy\DiceCaseStudy\bin\Debug\DiceCaseStudy.pdb
+C:\Documents and Settings\DSU\Desktop\DiceCaseStudy\DiceCaseStudy\bin\Debug\DiceCaseStudy.xml
+C:\Documents and Settings\DSU\Desktop\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.Resources.resources
+C:\Documents and Settings\DSU\Desktop\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.exe
+C:\Documents and Settings\DSU\Desktop\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.xml
+C:\Documents and Settings\DSU\Desktop\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.pdb

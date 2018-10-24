@@ -1,0 +1,66 @@
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap05\Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.exe
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap05\Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.xml
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap05\Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.pdb
+H:\VB\Cambridge\Chap05\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.exe
+H:\VB\Cambridge\Chap05\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.xml
+H:\VB\Cambridge\Chap05\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.pdb
+H:\VB\Cambridge\Chap05\DiceCaseStudy\DiceCaseStudy\bin\Debug\DiceCaseStudy.exe
+H:\VB\Cambridge\Chap05\DiceCaseStudy\DiceCaseStudy\bin\Debug\DiceCaseStudy.pdb
+H:\VB\Cambridge\Chap05\DiceCaseStudy\DiceCaseStudy\bin\Debug\DiceCaseStudy.xml
+H:\VB\Cambridge\Chap05\DiceCaseStudy\DiceCaseStudy\obj\Debug\ResolveAssemblyReference.cache
+H:\VB\Cambridge\Chap05\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.frmDiceCaseStudy.resources
+H:\VB\Cambridge\Chap05\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.Resources.resources
+H:\VB\Cambridge\Chap05\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\bin\Debug\DiceCaseStudy.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\bin\Debug\DiceCaseStudy.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\bin\Debug\DiceCaseStudy.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.frmDiceCaseStudy.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.Resources.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.exe
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.xml
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.pdb
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\bin\Debug\DiceCaseStudy.exe
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\bin\Debug\DiceCaseStudy.pdb
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\bin\Debug\DiceCaseStudy.xml
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.frmDiceCaseStudy.resources
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.Resources.resources
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy\DiceCaseStudy\obj\Debug\DiceCaseStudy.vbproj.GenerateResource.Cache
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy - Copy\DiceCaseStudy\obj\Debug\DiceCaseStudy.exe
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy - Copy\DiceCaseStudy\obj\Debug\DiceCaseStudy.xml
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy - Copy\DiceCaseStudy\obj\Debug\DiceCaseStudy.pdb
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy - Copy\DiceCaseStudy\bin\Debug\DiceCaseStudy.exe
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy - Copy\DiceCaseStudy\bin\Debug\DiceCaseStudy.pdb
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy - Copy\DiceCaseStudy\bin\Debug\DiceCaseStudy.xml
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy - Copy\DiceCaseStudy\obj\Debug\DiceCaseStudy.frmDiceCaseStudy.resources
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy - Copy\DiceCaseStudy\obj\Debug\DiceCaseStudy.Resources.resources
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseStudy - Copy\DiceCaseStudy\obj\Debug\DiceCaseStudy.vbproj.GenerateResource.Cache
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseGame\DiceCaseStudy\obj\Debug\DiceCaseStudy.exe
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseGame\DiceCaseStudy\obj\Debug\DiceCaseStudy.xml
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseGame\DiceCaseStudy\obj\Debug\DiceCaseStudy.pdb
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseGame\DiceCaseStudy\bin\Debug\DiceCaseStudy.exe
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseGame\DiceCaseStudy\bin\Debug\DiceCaseStudy.pdb
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseGame\DiceCaseStudy\bin\Debug\DiceCaseStudy.xml
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseGame\DiceCaseStudy\obj\Debug\DiceCaseStudy.frmDiceCaseStudy.resources
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseGame\DiceCaseStudy\obj\Debug\DiceCaseStudy.Resources.resources
+K:\DATC\My1031-V2\BookResources\Ch05\Chapter05Programs\DiceCaseGame\DiceCaseStudy\obj\Debug\DiceCaseStudy.vbproj.GenerateResource.Cache
+G:\DATC\My1031-V2\StudentResources\Ch5-StudentResources\Ch5-DiceCaseGame\DiceCaseStudy\obj\Debug\DiceCaseStudy.exe
+G:\DATC\My1031-V2\StudentResources\Ch5-StudentResources\Ch5-DiceCaseGame\DiceCaseStudy\obj\Debug\DiceCaseStudy.xml
+G:\DATC\My1031-V2\StudentResources\Ch5-StudentResources\Ch5-DiceCaseGame\DiceCaseStudy\obj\Debug\DiceCaseStudy.pdb
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch5\Ch5-StudentResources\Ch5-StudentResources\Ch5-DiceCaseGame\DiceCaseStudy\bin\Debug\DiceCaseStudy.exe
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch5\Ch5-StudentResources\Ch5-StudentResources\Ch5-DiceCaseGame\DiceCaseStudy\bin\Debug\DiceCaseStudy.pdb
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch5\Ch5-StudentResources\Ch5-StudentResources\Ch5-DiceCaseGame\DiceCaseStudy\bin\Debug\DiceCaseStudy.xml
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch5\Ch5-StudentResources\Ch5-StudentResources\Ch5-DiceCaseGame\DiceCaseStudy\obj\Debug\DiceCaseStudy.vbprojAssemblyReference.cache
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch5\Ch5-StudentResources\Ch5-StudentResources\Ch5-DiceCaseGame\DiceCaseStudy\obj\Debug\DiceCaseStudy.frmDiceCaseStudy.resources
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch5\Ch5-StudentResources\Ch5-StudentResources\Ch5-DiceCaseGame\DiceCaseStudy\obj\Debug\DiceCaseStudy.Resources.resources
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch5\Ch5-StudentResources\Ch5-StudentResources\Ch5-DiceCaseGame\DiceCaseStudy\obj\Debug\DiceCaseStudy.vbproj.GenerateResource.cache
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch5\Ch5-StudentResources\Ch5-StudentResources\Ch5-DiceCaseGame\DiceCaseStudy\obj\Debug\DiceCaseStudy.vbproj.CoreCompileInputs.cache
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch5\Ch5-StudentResources\Ch5-StudentResources\Ch5-DiceCaseGame\DiceCaseStudy\obj\Debug\DiceCaseStudy.exe
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch5\Ch5-StudentResources\Ch5-StudentResources\Ch5-DiceCaseGame\DiceCaseStudy\obj\Debug\DiceCaseStudy.xml
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch5\Ch5-StudentResources\Ch5-StudentResources\Ch5-DiceCaseGame\DiceCaseStudy\obj\Debug\DiceCaseStudy.pdb

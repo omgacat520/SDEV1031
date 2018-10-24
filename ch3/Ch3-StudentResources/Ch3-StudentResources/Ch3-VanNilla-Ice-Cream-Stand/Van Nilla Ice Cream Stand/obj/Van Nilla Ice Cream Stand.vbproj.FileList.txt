@@ -1,0 +1,10 @@
+bin\Debug\Van Nilla Ice Cream Stand.exe
+bin\Debug\Van Nilla Ice Cream Stand.pdb
+bin\Debug\Van Nilla Ice Cream Stand.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Van_Nilla_Ice_Cream_Stand.frmIceCream.resources
+obj\Debug\Van_Nilla_Ice_Cream_Stand.Resources.resources
+obj\Debug\Van Nilla Ice Cream Stand.vbproj.GenerateResource.Cache
+obj\Debug\Van Nilla Ice Cream Stand.exe
+obj\Debug\Van Nilla Ice Cream Stand.xml
+obj\Debug\Van Nilla Ice Cream Stand.pdb

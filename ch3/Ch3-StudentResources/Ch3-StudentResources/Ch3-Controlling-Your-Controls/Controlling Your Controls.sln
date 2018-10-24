@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 10
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Controlling Your Controls", "Controlling Your Controls\Controlling Your Controls.vbproj", "{C9E0B643-7966-4AC0-84D4-A2396416CFD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9E0B643-7966-4AC0-84D4-A2396416CFD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E0B643-7966-4AC0-84D4-A2396416CFD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E0B643-7966-4AC0-84D4-A2396416CFD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E0B643-7966-4AC0-84D4-A2396416CFD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

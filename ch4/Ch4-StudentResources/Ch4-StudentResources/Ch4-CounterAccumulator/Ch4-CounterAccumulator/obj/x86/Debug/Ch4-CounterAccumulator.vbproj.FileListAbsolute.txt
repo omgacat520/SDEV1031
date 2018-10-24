@@ -1,0 +1,20 @@
+E:\DATC\My1031-V2\Projects\Ch4-CounterAccumulator\Ch4-CounterAccumulator\bin\Debug\Ch4-CounterAccumulator.exe
+E:\DATC\My1031-V2\Projects\Ch4-CounterAccumulator\Ch4-CounterAccumulator\bin\Debug\Ch4-CounterAccumulator.pdb
+E:\DATC\My1031-V2\Projects\Ch4-CounterAccumulator\Ch4-CounterAccumulator\bin\Debug\Ch4-CounterAccumulator.xml
+E:\DATC\My1031-V2\Projects\Ch4-CounterAccumulator\Ch4-CounterAccumulator\obj\x86\Debug\Ch4_CounterAccumulator.Form1.resources
+E:\DATC\My1031-V2\Projects\Ch4-CounterAccumulator\Ch4-CounterAccumulator\obj\x86\Debug\Ch4_CounterAccumulator.Resources.resources
+E:\DATC\My1031-V2\Projects\Ch4-CounterAccumulator\Ch4-CounterAccumulator\obj\x86\Debug\Ch4-CounterAccumulator.vbproj.GenerateResource.Cache
+E:\DATC\My1031-V2\Projects\Ch4-CounterAccumulator\Ch4-CounterAccumulator\obj\x86\Debug\Ch4-CounterAccumulator.exe
+E:\DATC\My1031-V2\Projects\Ch4-CounterAccumulator\Ch4-CounterAccumulator\obj\x86\Debug\Ch4-CounterAccumulator.xml
+E:\DATC\My1031-V2\Projects\Ch4-CounterAccumulator\Ch4-CounterAccumulator\obj\x86\Debug\Ch4-CounterAccumulator.pdb
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-CounterAccumulator\Ch4-CounterAccumulator\bin\Debug\Ch4-CounterAccumulator.exe
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-CounterAccumulator\Ch4-CounterAccumulator\bin\Debug\Ch4-CounterAccumulator.pdb
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-CounterAccumulator\Ch4-CounterAccumulator\bin\Debug\Ch4-CounterAccumulator.xml
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-CounterAccumulator\Ch4-CounterAccumulator\obj\x86\Debug\Ch4-CounterAccumulator.vbprojAssemblyReference.cache
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-CounterAccumulator\Ch4-CounterAccumulator\obj\x86\Debug\Ch4_CounterAccumulator.Form1.resources
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-CounterAccumulator\Ch4-CounterAccumulator\obj\x86\Debug\Ch4_CounterAccumulator.Resources.resources
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-CounterAccumulator\Ch4-CounterAccumulator\obj\x86\Debug\Ch4-CounterAccumulator.vbproj.GenerateResource.cache
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-CounterAccumulator\Ch4-CounterAccumulator\obj\x86\Debug\Ch4-CounterAccumulator.vbproj.CoreCompileInputs.cache
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-CounterAccumulator\Ch4-CounterAccumulator\obj\x86\Debug\Ch4-CounterAccumulator.exe
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-CounterAccumulator\Ch4-CounterAccumulator\obj\x86\Debug\Ch4-CounterAccumulator.xml
+C:\Users\Jake\Documents\SDEV 1031 after ch2\ch4\Ch4-StudentResources\Ch4-StudentResources\Ch4-CounterAccumulator\Ch4-CounterAccumulator\obj\x86\Debug\Ch4-CounterAccumulator.pdb

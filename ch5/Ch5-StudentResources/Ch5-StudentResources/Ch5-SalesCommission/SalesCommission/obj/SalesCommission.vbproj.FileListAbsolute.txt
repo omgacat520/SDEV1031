@@ -1,0 +1,10 @@
+C:\Documents and Settings\DSU\Desktop\SalesCommission\SalesCommission\bin\Debug\SalesCommission.exe
+C:\Documents and Settings\DSU\Desktop\SalesCommission\SalesCommission\bin\Debug\SalesCommission.pdb
+C:\Documents and Settings\DSU\Desktop\SalesCommission\SalesCommission\bin\Debug\SalesCommission.xml
+C:\Documents and Settings\DSU\Desktop\SalesCommission\SalesCommission\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\Desktop\SalesCommission\SalesCommission\obj\Debug\SalesCommission.frmSalesCommission.resources
+C:\Documents and Settings\DSU\Desktop\SalesCommission\SalesCommission\obj\Debug\SalesCommission.Resources.resources
+C:\Documents and Settings\DSU\Desktop\SalesCommission\SalesCommission\obj\Debug\SalesCommission.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\Desktop\SalesCommission\SalesCommission\obj\Debug\SalesCommission.exe
+C:\Documents and Settings\DSU\Desktop\SalesCommission\SalesCommission\obj\Debug\SalesCommission.xml
+C:\Documents and Settings\DSU\Desktop\SalesCommission\SalesCommission\obj\Debug\SalesCommission.pdb

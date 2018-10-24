@@ -1,0 +1,18 @@
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap03\Programs\Account Balance\Account Balance\obj\Debug\Account Balance.exe
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap03\Programs\Account Balance\Account Balance\obj\Debug\Account Balance.xml
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap03\Programs\Account Balance\Account Balance\obj\Debug\Account Balance.pdb
+H:\VB\Cambridge\Chap03\Programs\Account Balance\Account Balance\obj\Debug\Account Balance.exe
+H:\VB\Cambridge\Chap03\Programs\Account Balance\Account Balance\obj\Debug\Account Balance.xml
+H:\VB\Cambridge\Chap03\Programs\Account Balance\Account Balance\obj\Debug\Account Balance.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Account Balance\Account Balance\obj\Debug\Account Balance.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Account Balance\Account Balance\obj\Debug\Account Balance.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Account Balance\Account Balance\obj\Debug\Account Balance.pdb
+E:\DATC\My1031-V2\Projects\Ch3-AccountBalance\Account Balance\obj\Debug\Account Balance.exe
+E:\DATC\My1031-V2\Projects\Ch3-AccountBalance\Account Balance\obj\Debug\Account Balance.xml
+E:\DATC\My1031-V2\Projects\Ch3-AccountBalance\Account Balance\obj\Debug\Account Balance.pdb
+E:\DATC\My1031-V2\Projects\Ch3-AccountBalance\Account Balance\bin\Debug\Account Balance.exe
+E:\DATC\My1031-V2\Projects\Ch3-AccountBalance\Account Balance\bin\Debug\Account Balance.pdb
+E:\DATC\My1031-V2\Projects\Ch3-AccountBalance\Account Balance\bin\Debug\Account Balance.xml
+E:\DATC\My1031-V2\Projects\Ch3-AccountBalance\Account Balance\obj\Debug\Account_Balance.frmAccountBalance.resources
+E:\DATC\My1031-V2\Projects\Ch3-AccountBalance\Account Balance\obj\Debug\Account_Balance.Resources.resources
+E:\DATC\My1031-V2\Projects\Ch3-AccountBalance\Account Balance\obj\Debug\Account Balance.vbproj.GenerateResource.Cache

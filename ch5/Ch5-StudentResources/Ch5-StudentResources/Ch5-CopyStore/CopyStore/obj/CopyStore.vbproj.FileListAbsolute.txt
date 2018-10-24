@@ -1,0 +1,10 @@
+C:\Documents and Settings\DSU\Desktop\CopyStore\CopyStore\bin\Debug\CopyStore.exe
+C:\Documents and Settings\DSU\Desktop\CopyStore\CopyStore\bin\Debug\CopyStore.pdb
+C:\Documents and Settings\DSU\Desktop\CopyStore\CopyStore\bin\Debug\CopyStore.xml
+C:\Documents and Settings\DSU\Desktop\CopyStore\CopyStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\Desktop\CopyStore\CopyStore\obj\Debug\CopyStore.frmPupieRussCopies.resources
+C:\Documents and Settings\DSU\Desktop\CopyStore\CopyStore\obj\Debug\CopyStore.Resources.resources
+C:\Documents and Settings\DSU\Desktop\CopyStore\CopyStore\obj\Debug\CopyStore.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\Desktop\CopyStore\CopyStore\obj\Debug\CopyStore.exe
+C:\Documents and Settings\DSU\Desktop\CopyStore\CopyStore\obj\Debug\CopyStore.xml
+C:\Documents and Settings\DSU\Desktop\CopyStore\CopyStore\obj\Debug\CopyStore.pdb

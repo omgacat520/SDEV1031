@@ -1,0 +1,34 @@
+C:\Documents and Settings\DSU\Desktop\Chapter03\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.exe
+C:\Documents and Settings\DSU\Desktop\Chapter03\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.xml
+C:\Documents and Settings\DSU\Desktop\Chapter03\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.pdb
+H:\VB\Cambridge\Chap03\Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.exe
+H:\VB\Cambridge\Chap03\Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.xml
+H:\VB\Cambridge\Chap03\Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.pdb
+H:\VB\Cambridge\Chap03\Programs\Controlling Your Controls\Controlling Your Controls\bin\Debug\Controlling Your Controls.exe
+H:\VB\Cambridge\Chap03\Programs\Controlling Your Controls\Controlling Your Controls\bin\Debug\Controlling Your Controls.pdb
+H:\VB\Cambridge\Chap03\Programs\Controlling Your Controls\Controlling Your Controls\bin\Debug\Controlling Your Controls.xml
+H:\VB\Cambridge\Chap03\Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\ResolveAssemblyReference.cache
+H:\VB\Cambridge\Chap03\Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling_Your_Controls.ControllingYourControls.resources
+H:\VB\Cambridge\Chap03\Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling_Your_Controls.Resources.resources
+H:\VB\Cambridge\Chap03\Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Controlling Your Controls\Controlling Your Controls\bin\Debug\Controlling Your Controls.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Controlling Your Controls\Controlling Your Controls\bin\Debug\Controlling Your Controls.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Controlling Your Controls\Controlling Your Controls\bin\Debug\Controlling Your Controls.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling_Your_Controls.ControllingYourControls.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling_Your_Controls.Resources.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter03Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\My1031-V2\BookResources\Ch03\Chapter03Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.exe
+F:\My1031-V2\BookResources\Ch03\Chapter03Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.xml
+F:\My1031-V2\BookResources\Ch03\Chapter03Programs\Controlling Your Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.pdb
+E:\DATC\My1031-V2\Projects\Ch3-Controlling-Your-Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.exe
+E:\DATC\My1031-V2\Projects\Ch3-Controlling-Your-Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.xml
+E:\DATC\My1031-V2\Projects\Ch3-Controlling-Your-Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.pdb
+G:\DATC\My1031-V2\Projects\Ch3-Controlling-Your-Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.exe
+G:\DATC\My1031-V2\Projects\Ch3-Controlling-Your-Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.xml
+G:\DATC\My1031-V2\Projects\Ch3-Controlling-Your-Controls\Controlling Your Controls\obj\Debug\Controlling Your Controls.pdb
