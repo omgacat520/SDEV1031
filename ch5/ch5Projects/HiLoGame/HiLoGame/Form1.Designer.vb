@@ -32,7 +32,7 @@ Partial Class Form1
         Me.lblPoints = New System.Windows.Forms.Label()
         Me.btnExit = New System.Windows.Forms.Button()
         Me.Label4 = New System.Windows.Forms.Label()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.txtBet = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'Label1
@@ -81,6 +81,8 @@ Partial Class Form1
         '
         Me.rtbNumber.Location = New System.Drawing.Point(253, 116)
         Me.rtbNumber.Name = "rtbNumber"
+        Me.rtbNumber.ReadOnly = True
+        Me.rtbNumber.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None
         Me.rtbNumber.Size = New System.Drawing.Size(72, 24)
         Me.rtbNumber.TabIndex = 4
         Me.rtbNumber.Text = ""
@@ -89,6 +91,7 @@ Partial Class Form1
         '
         Me.rtbResults.Location = New System.Drawing.Point(17, 146)
         Me.rtbResults.Name = "rtbResults"
+        Me.rtbResults.ReadOnly = True
         Me.rtbResults.Size = New System.Drawing.Size(308, 52)
         Me.rtbResults.TabIndex = 5
         Me.rtbResults.Text = ""
@@ -98,7 +101,7 @@ Partial Class Form1
         Me.Label3.AutoSize = True
         Me.Label3.BackColor = System.Drawing.Color.White
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(76, 208)
+        Me.Label3.Location = New System.Drawing.Point(86, 208)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(66, 24)
         Me.Label3.TabIndex = 6
@@ -109,7 +112,7 @@ Partial Class Form1
         Me.lblPoints.AutoSize = True
         Me.lblPoints.BackColor = System.Drawing.Color.White
         Me.lblPoints.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblPoints.Location = New System.Drawing.Point(148, 208)
+        Me.lblPoints.Location = New System.Drawing.Point(158, 208)
         Me.lblPoints.Name = "lblPoints"
         Me.lblPoints.Size = New System.Drawing.Size(50, 24)
         Me.lblPoints.TabIndex = 7
@@ -118,7 +121,7 @@ Partial Class Form1
         'btnExit
         '
         Me.btnExit.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(128, Byte), Integer))
-        Me.btnExit.Location = New System.Drawing.Point(250, 208)
+        Me.btnExit.Location = New System.Drawing.Point(253, 49)
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(75, 23)
         Me.btnExit.TabIndex = 8
@@ -136,20 +139,20 @@ Partial Class Form1
         Me.Label4.TabIndex = 9
         Me.Label4.Text = "Bet amount"
         '
-        'TextBox1
+        'txtBet
         '
-        Me.TextBox1.Location = New System.Drawing.Point(124, 257)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(201, 20)
-        Me.TextBox1.TabIndex = 10
+        Me.txtBet.Location = New System.Drawing.Point(124, 257)
+        Me.txtBet.Name = "txtBet"
+        Me.txtBet.Size = New System.Drawing.Size(201, 20)
+        Me.txtBet.TabIndex = 10
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Gray
-        Me.ClientSize = New System.Drawing.Size(352, 285)
-        Me.Controls.Add(Me.TextBox1)
+        Me.ClientSize = New System.Drawing.Size(333, 285)
+        Me.Controls.Add(Me.txtBet)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.btnExit)
         Me.Controls.Add(Me.lblPoints)
@@ -177,5 +180,5 @@ Partial Class Form1
     Friend WithEvents lblPoints As Label
     Friend WithEvents btnExit As Button
     Friend WithEvents Label4 As Label
-    Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents txtBet As TextBox
 End Class
