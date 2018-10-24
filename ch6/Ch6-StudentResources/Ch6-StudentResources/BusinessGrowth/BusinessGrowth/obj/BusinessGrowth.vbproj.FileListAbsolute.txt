@@ -1,0 +1,10 @@
+C:\Documents and Settings\DSU\Desktop\BusinessGrowth\BusinessGrowth\bin\Debug\BusinessGrowth.exe
+C:\Documents and Settings\DSU\Desktop\BusinessGrowth\BusinessGrowth\bin\Debug\BusinessGrowth.pdb
+C:\Documents and Settings\DSU\Desktop\BusinessGrowth\BusinessGrowth\bin\Debug\BusinessGrowth.xml
+C:\Documents and Settings\DSU\Desktop\BusinessGrowth\BusinessGrowth\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\Desktop\BusinessGrowth\BusinessGrowth\obj\Debug\BusinessGrowth.frmBusinessGrowth.resources
+C:\Documents and Settings\DSU\Desktop\BusinessGrowth\BusinessGrowth\obj\Debug\BusinessGrowth.Resources.resources
+C:\Documents and Settings\DSU\Desktop\BusinessGrowth\BusinessGrowth\obj\Debug\BusinessGrowth.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\Desktop\BusinessGrowth\BusinessGrowth\obj\Debug\BusinessGrowth.exe
+C:\Documents and Settings\DSU\Desktop\BusinessGrowth\BusinessGrowth\obj\Debug\BusinessGrowth.xml
+C:\Documents and Settings\DSU\Desktop\BusinessGrowth\BusinessGrowth\obj\Debug\BusinessGrowth.pdb

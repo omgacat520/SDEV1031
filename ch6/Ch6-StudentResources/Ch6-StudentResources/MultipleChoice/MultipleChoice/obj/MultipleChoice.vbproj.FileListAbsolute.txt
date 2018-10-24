@@ -1,0 +1,10 @@
+C:\Documents and Settings\DSU\Desktop\MultipleChoice\MultipleChoice\bin\Debug\MultipleChoice.exe
+C:\Documents and Settings\DSU\Desktop\MultipleChoice\MultipleChoice\bin\Debug\MultipleChoice.pdb
+C:\Documents and Settings\DSU\Desktop\MultipleChoice\MultipleChoice\bin\Debug\MultipleChoice.xml
+C:\Documents and Settings\DSU\Desktop\MultipleChoice\MultipleChoice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\Desktop\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.frmMultipleChoice.resources
+C:\Documents and Settings\DSU\Desktop\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.Resources.resources
+C:\Documents and Settings\DSU\Desktop\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\Desktop\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.exe
+C:\Documents and Settings\DSU\Desktop\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.xml
+C:\Documents and Settings\DSU\Desktop\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.pdb

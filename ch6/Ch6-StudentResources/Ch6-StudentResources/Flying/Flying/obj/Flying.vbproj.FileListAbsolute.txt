@@ -1,0 +1,20 @@
+C:\Documents and Settings\DSU\Desktop\Flying\Flying\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\Desktop\Flying\Flying\obj\Debug\Flying.frmFlying.resources
+C:\Documents and Settings\DSU\Desktop\Flying\Flying\obj\Debug\Flying.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\Desktop\Flying\Flying\bin\Debug\Flying.exe
+C:\Documents and Settings\DSU\Desktop\Flying\Flying\bin\Debug\Flying.pdb
+C:\Documents and Settings\DSU\Desktop\Flying\Flying\bin\Debug\Flying.xml
+C:\Documents and Settings\DSU\Desktop\Flying\Flying\obj\Debug\Flying.Resources.resources
+C:\Documents and Settings\DSU\Desktop\Flying\Flying\obj\Debug\Flying.exe
+C:\Documents and Settings\DSU\Desktop\Flying\Flying\obj\Debug\Flying.xml
+C:\Documents and Settings\DSU\Desktop\Flying\Flying\obj\Debug\Flying.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\Flying\Flying\obj\Debug\Flying.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\Flying\Flying\obj\Debug\Flying.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\Flying\Flying\obj\Debug\Flying.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\Flying\Flying\bin\Debug\Flying.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\Flying\Flying\bin\Debug\Flying.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\Flying\Flying\bin\Debug\Flying.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\Flying\Flying\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\Flying\Flying\obj\Debug\Flying.frmFlying.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\Flying\Flying\obj\Debug\Flying.Resources.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\Flying\Flying\obj\Debug\Flying.vbproj.GenerateResource.Cache

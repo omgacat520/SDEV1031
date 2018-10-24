@@ -1,0 +1,33 @@
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap06\Programs\Depreciation\Depreciation\obj\Debug\Depreciation.exe
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap06\Programs\Depreciation\Depreciation\obj\Debug\Depreciation.xml
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap06\Programs\Depreciation\Depreciation\obj\Debug\Depreciation.pdb
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap06\Programs\Depreciation\Depreciation\bin\Debug\Depreciation.exe
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap06\Programs\Depreciation\Depreciation\bin\Debug\Depreciation.pdb
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap06\Programs\Depreciation\Depreciation\bin\Debug\Depreciation.xml
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap06\Programs\Depreciation\Depreciation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap06\Programs\Depreciation\Depreciation\obj\Debug\Depreciation.frmDepreciation.resources
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap06\Programs\Depreciation\Depreciation\obj\Debug\Depreciation.Resources.resources
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap06\Programs\Depreciation\Depreciation\obj\Debug\Depreciation.vbproj.GenerateResource.Cache
+H:\VB\Cambridge\Chap06\Depreciation\Depreciation\obj\Debug\Depreciation.exe
+H:\VB\Cambridge\Chap06\Depreciation\Depreciation\obj\Debug\Depreciation.xml
+H:\VB\Cambridge\Chap06\Depreciation\Depreciation\obj\Debug\Depreciation.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\Depreciation\Depreciation\obj\Debug\Depreciation.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\Depreciation\Depreciation\obj\Debug\Depreciation.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\Depreciation\Depreciation\obj\Debug\Depreciation.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\Depreciation\Depreciation\bin\Debug\Depreciation.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\Depreciation\Depreciation\bin\Debug\Depreciation.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\Depreciation\Depreciation\bin\Debug\Depreciation.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\Depreciation\Depreciation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\Depreciation\Depreciation\obj\Debug\Depreciation.frmDepreciation.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\Depreciation\Depreciation\obj\Debug\Depreciation.Resources.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\Depreciation\Depreciation\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\Depreciation\Depreciation\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\Depreciation\Depreciation\obj\Debug\Depreciation.exe
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\Depreciation\Depreciation\obj\Debug\Depreciation.xml
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\Depreciation\Depreciation\obj\Debug\Depreciation.pdb
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\Depreciation\Depreciation\bin\Debug\Depreciation.exe
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\Depreciation\Depreciation\bin\Debug\Depreciation.pdb
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\Depreciation\Depreciation\bin\Debug\Depreciation.xml
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\Depreciation\Depreciation\obj\Debug\Depreciation.frmDepreciation.resources
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\Depreciation\Depreciation\obj\Debug\Depreciation.Resources.resources
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\Depreciation\Depreciation\obj\Debug\Depreciation.vbproj.GenerateResource.Cache

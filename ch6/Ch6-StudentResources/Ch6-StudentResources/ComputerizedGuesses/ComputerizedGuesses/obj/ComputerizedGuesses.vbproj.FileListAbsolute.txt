@@ -1,0 +1,20 @@
+C:\Documents and Settings\DSU\Desktop\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.exe
+C:\Documents and Settings\DSU\Desktop\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.xml
+C:\Documents and Settings\DSU\Desktop\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.pdb
+C:\Documents and Settings\DSU\Desktop\ComputerizedGuesses\ComputerizedGuesses\bin\Debug\ComputerizedGuesses.exe
+C:\Documents and Settings\DSU\Desktop\ComputerizedGuesses\ComputerizedGuesses\bin\Debug\ComputerizedGuesses.pdb
+C:\Documents and Settings\DSU\Desktop\ComputerizedGuesses\ComputerizedGuesses\bin\Debug\ComputerizedGuesses.xml
+C:\Documents and Settings\DSU\Desktop\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\Desktop\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.frmComputerizedGuesses.resources
+C:\Documents and Settings\DSU\Desktop\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.Resources.resources
+C:\Documents and Settings\DSU\Desktop\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\ComputerizedGuesses\ComputerizedGuesses\bin\Debug\ComputerizedGuesses.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\ComputerizedGuesses\ComputerizedGuesses\bin\Debug\ComputerizedGuesses.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\ComputerizedGuesses\ComputerizedGuesses\bin\Debug\ComputerizedGuesses.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.frmComputerizedGuesses.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.Resources.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.vbproj.GenerateResource.Cache

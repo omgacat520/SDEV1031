@@ -1,0 +1,36 @@
+C:\Documents and Settings\DSU\Desktop\New Versions\NewChap06\Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.exe
+C:\Documents and Settings\DSU\Desktop\New Versions\NewChap06\Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.xml
+C:\Documents and Settings\DSU\Desktop\New Versions\NewChap06\Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.pdb
+C:\Documents and Settings\DSU\Desktop\New Versions\NewChap06\Programs\ComputerizedGuesses\ComputerizedGuesses\bin\Debug\ComputerizedGuesses.exe
+C:\Documents and Settings\DSU\Desktop\New Versions\NewChap06\Programs\ComputerizedGuesses\ComputerizedGuesses\bin\Debug\ComputerizedGuesses.pdb
+C:\Documents and Settings\DSU\Desktop\New Versions\NewChap06\Programs\ComputerizedGuesses\ComputerizedGuesses\bin\Debug\ComputerizedGuesses.xml
+C:\Documents and Settings\DSU\Desktop\New Versions\NewChap06\Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\Desktop\New Versions\NewChap06\Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.frmComputerizedGuesses.resources
+C:\Documents and Settings\DSU\Desktop\New Versions\NewChap06\Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.Resources.resources
+C:\Documents and Settings\DSU\Desktop\New Versions\NewChap06\Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.vbproj.GenerateResource.Cache
+H:\VB\Cambridge\Chap06\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.exe
+H:\VB\Cambridge\Chap06\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.xml
+H:\VB\Cambridge\Chap06\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\bin\Debug\ComputerizedGuesses.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\bin\Debug\ComputerizedGuesses.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\bin\Debug\ComputerizedGuesses.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.frmComputerizedGuesses.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.Resources.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.exe
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.xml
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.pdb
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\bin\Debug\ComputerizedGuesses.exe
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\bin\Debug\ComputerizedGuesses.pdb
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\bin\Debug\ComputerizedGuesses.xml
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.frmComputerizedGuesses.resources
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.Resources.resources
+G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.vbproj.GenerateResource.Cache
+K:\DATC\My1031-V2\StudentResources\Ch6-StudentResources\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.exe
+K:\DATC\My1031-V2\StudentResources\Ch6-StudentResources\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.xml
+K:\DATC\My1031-V2\StudentResources\Ch6-StudentResources\ComputerizedGuesses\ComputerizedGuesses\obj\Debug\ComputerizedGuesses.pdb

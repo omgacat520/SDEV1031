@@ -1,0 +1,10 @@
+C:\Documents and Settings\DSU\Desktop\SimpleGraphics\SimpleGraphics\bin\Debug\SimpleGraphics.exe
+C:\Documents and Settings\DSU\Desktop\SimpleGraphics\SimpleGraphics\bin\Debug\SimpleGraphics.pdb
+C:\Documents and Settings\DSU\Desktop\SimpleGraphics\SimpleGraphics\bin\Debug\SimpleGraphics.xml
+C:\Documents and Settings\DSU\Desktop\SimpleGraphics\SimpleGraphics\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\Desktop\SimpleGraphics\SimpleGraphics\obj\Debug\SimpleGraphics.frmSimpleGraphics.resources
+C:\Documents and Settings\DSU\Desktop\SimpleGraphics\SimpleGraphics\obj\Debug\SimpleGraphics.Resources.resources
+C:\Documents and Settings\DSU\Desktop\SimpleGraphics\SimpleGraphics\obj\Debug\SimpleGraphics.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\Desktop\SimpleGraphics\SimpleGraphics\obj\Debug\SimpleGraphics.exe
+C:\Documents and Settings\DSU\Desktop\SimpleGraphics\SimpleGraphics\obj\Debug\SimpleGraphics.xml
+C:\Documents and Settings\DSU\Desktop\SimpleGraphics\SimpleGraphics\obj\Debug\SimpleGraphics.pdb

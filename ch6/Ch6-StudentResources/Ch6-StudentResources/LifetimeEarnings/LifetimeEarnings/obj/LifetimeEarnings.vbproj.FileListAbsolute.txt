@@ -1,0 +1,20 @@
+C:\Documents and Settings\DSU\Desktop\LifetimeEarnings\LifetimeEarnings\bin\Debug\LifetimeEarnings.exe
+C:\Documents and Settings\DSU\Desktop\LifetimeEarnings\LifetimeEarnings\bin\Debug\LifetimeEarnings.pdb
+C:\Documents and Settings\DSU\Desktop\LifetimeEarnings\LifetimeEarnings\bin\Debug\LifetimeEarnings.xml
+C:\Documents and Settings\DSU\Desktop\LifetimeEarnings\LifetimeEarnings\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\Desktop\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.frmLifetimeEarnings.resources
+C:\Documents and Settings\DSU\Desktop\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.Resources.resources
+C:\Documents and Settings\DSU\Desktop\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\Desktop\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.exe
+C:\Documents and Settings\DSU\Desktop\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.xml
+C:\Documents and Settings\DSU\Desktop\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\LifetimeEarnings\LifetimeEarnings\bin\Debug\LifetimeEarnings.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\LifetimeEarnings\LifetimeEarnings\bin\Debug\LifetimeEarnings.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\LifetimeEarnings\LifetimeEarnings\bin\Debug\LifetimeEarnings.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\LifetimeEarnings\LifetimeEarnings\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.frmLifetimeEarnings.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.Resources.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\Chap06\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.vbproj.GenerateResource.Cache

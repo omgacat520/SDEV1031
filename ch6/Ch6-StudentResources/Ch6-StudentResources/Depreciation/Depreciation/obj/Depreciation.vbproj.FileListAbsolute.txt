@@ -1,0 +1,10 @@
+C:\Documents and Settings\DSU\Desktop\Depreciation\Depreciation\bin\Debug\Depreciation.exe
+C:\Documents and Settings\DSU\Desktop\Depreciation\Depreciation\bin\Debug\Depreciation.pdb
+C:\Documents and Settings\DSU\Desktop\Depreciation\Depreciation\bin\Debug\Depreciation.xml
+C:\Documents and Settings\DSU\Desktop\Depreciation\Depreciation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\Desktop\Depreciation\Depreciation\obj\Debug\Depreciation.frmDepreciation.resources
+C:\Documents and Settings\DSU\Desktop\Depreciation\Depreciation\obj\Debug\Depreciation.Resources.resources
+C:\Documents and Settings\DSU\Desktop\Depreciation\Depreciation\obj\Debug\Depreciation.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\Desktop\Depreciation\Depreciation\obj\Debug\Depreciation.exe
+C:\Documents and Settings\DSU\Desktop\Depreciation\Depreciation\obj\Debug\Depreciation.xml
+C:\Documents and Settings\DSU\Desktop\Depreciation\Depreciation\obj\Debug\Depreciation.pdb
