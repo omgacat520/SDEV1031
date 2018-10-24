@@ -121,11 +121,12 @@ Partial Class Form1
         'btnExit
         '
         Me.btnExit.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(128, Byte), Integer))
+        Me.btnExit.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnExit.Location = New System.Drawing.Point(253, 49)
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(75, 23)
         Me.btnExit.TabIndex = 8
-        Me.btnExit.Text = "Exit"
+        Me.btnExit.Text = "Quit"
         Me.btnExit.UseVisualStyleBackColor = False
         '
         'Label4
