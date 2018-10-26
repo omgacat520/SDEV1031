@@ -1,0 +1,172 @@
+Public Class Form1
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        'so, this is gonna be a lot of loops and if-statements, but I gotta figure out a calculation for each month for the penny on each individual day, (Nest if-loops in loops that are designated to months) and I gotta figure out when it would be technically more profitable to work for salary and when it would be more profitable to have the penny expontential function (two separate functions, one exponential, the other is a linear increase of 5000$, graph the intersection for an if-statement.)
+
+        'Inputs below here
+
+        'variables below here
+        Dim decRaise As Decimal
+        Dim decPenny As Decimal
+        Dim strmath As String
+        'variables for each months counting-loops
+        Dim bytJan As Byte
+        Dim bytFeb As Byte
+        Dim bytMar As Byte
+        Dim bytApr As Byte
+        Dim bytMay As Byte
+        Dim bytJun As Byte
+        Dim bytJul As Byte
+        Dim bytAug As Byte
+        Dim bytSep As Byte
+        Dim bytOct As Byte
+        Dim bytNov As Byte
+        Dim bytDec As Byte
+        'Processing below here
+        decRaise = txtSalaryRaise.Text
+        decPenny = 0.01
+
+        If IsNumeric(txtSalaryRaise.Text) = True Then
+            'Per-Month If Statements
+            'Jan (31 days)
+
+            rtbInfo.AppendText("January")
+            Do Until bytJan = 31
+                strmath = ((decPenny * 2).ToString("f2"))
+                decPenny = Convert.ToDecimal(strmath)
+                rtbInfo.AppendText("math is " & strmath & vbNewLine)
+                rtbInfo.AppendText("Day " & bytJan & " " & decPenny & vbNewLine)
+                bytJan = bytJan + 1
+                strmath = 0
+            Loop
+
+            'Feb (29 days)
+
+            rtbInfo.AppendText("February")
+            Do Until bytFeb = 29
+                strmath = (decPenny * 2).ToString("f2")
+                decPenny = Convert.ToDecimal(strmath)
+                rtbInfo.AppendText("math is " & strmath)
+                rtbInfo.AppendText("Day " & bytJan & " " & decPenny)
+                bytFeb = bytFeb + 1
+                strmath = 0
+            Loop
+            'March (31 days)
+
+            rtbInfo.AppendText("March")
+            Do Until bytMar = 31
+                strmath = (decPenny * 2).ToString("f")
+                decPenny = Convert.ToDecimal(strmath)
+                rtbInfo.AppendText("math is " & strmath)
+                rtbInfo.AppendText("Day " & bytJan & " " & decPenny)
+                bytMar = bytMar + 1
+                strmath = 0
+            Loop
+            'April (30 days)
+
+            rtbInfo.AppendText("April")
+            Do Until bytApr = 30
+                strmath = (decPenny * 2).ToString("f")
+                decPenny = Convert.ToDecimal(strmath)
+                rtbInfo.AppendText("math is " & strmath)
+                rtbInfo.AppendText("Day " & bytJan & " " & decPenny)
+                bytApr = bytApr + 1
+                strmath = 0
+            Loop
+            'May (31 days)
+
+            rtbInfo.AppendText("May")
+            Do Until bytMay = 31
+                strmath = (decPenny * 2).ToString("f")
+                decPenny = Convert.ToDecimal(strmath)
+                rtbInfo.AppendText("math is " & strmath)
+                rtbInfo.AppendText("Day " & bytJan & " " & decPenny)
+                bytMay = bytMay + 1
+                strmath = 0
+            Loop
+            'June (30 days)
+
+            rtbInfo.AppendText("June")
+            Do Until bytJun = 30
+                strmath = (decPenny * 2).ToString("f")
+                decPenny = Convert.ToDecimal(strmath)
+                rtbInfo.AppendText("math is " & strmath)
+                rtbInfo.AppendText("Day " & bytJan & " " & decPenny)
+                bytJun = bytJun + 1
+                strmath = 0
+            Loop
+            'July (31 days)
+
+            rtbInfo.AppendText("July")
+            Do Until bytJul = 31
+                strmath = (decPenny * 2).ToString("f")
+                decPenny = Convert.ToDecimal(strmath)
+                rtbInfo.AppendText("math is " & strmath)
+                rtbInfo.AppendText("Day " & bytJan & " " & decPenny)
+                bytJul = bytJul + 1
+                strmath = 0
+            Loop
+            'August (31 days)
+
+            rtbInfo.AppendText("August")
+            Do Until bytAug = 31
+                strmath = (decPenny * 2).ToString("f")
+                decPenny = Convert.ToDecimal(strmath)
+                rtbInfo.AppendText("math is " & strmath)
+                rtbInfo.AppendText("Day " & bytJan & " " & decPenny)
+                bytAug = bytAug + 1
+                strmath = 0
+            Loop
+            'September (30 days)
+
+            rtbInfo.AppendText("September")
+            Do Until bytSep = 31
+                strmath = (decPenny * 2).ToString("f")
+                decPenny = Convert.ToDecimal(strmath)
+                rtbInfo.AppendText("math is " & strmath)
+                rtbInfo.AppendText("Day " & bytJan & " " & decPenny)
+                bytSep = bytSep + 1
+                strmath = 0
+            Loop
+            'October (31 days)
+
+            rtbInfo.AppendText("October")
+            Do Until bytOct = 31
+                strmath = (decPenny * 2).ToString("f")
+                decPenny = Convert.ToDecimal(strmath)
+                rtbInfo.AppendText("math is " & strmath)
+                rtbInfo.AppendText("Day " & bytJan & " " & decPenny)
+                bytOct = bytOct + 1
+                strmath = 0
+            Loop
+            'November (30 days)
+
+            rtbInfo.AppendText("November")
+            Do Until bytNov = 31
+                strmath = (decPenny * 2).ToString("f")
+                decPenny = Convert.ToDecimal(strmath)
+                rtbInfo.AppendText("math is " & strmath)
+                rtbInfo.AppendText("Day " & bytJan & " " & decPenny)
+                bytNov = bytNov + 1
+                strmath = 0
+            Loop
+            'December (31 days)
+
+            rtbInfo.AppendText("December")
+            Do Until bytDec = 31
+                strmath = (decPenny * 2).ToString("f")
+                decPenny = Convert.ToDecimal(strmath)
+                rtbInfo.AppendText("math is " & strmath)
+                rtbInfo.AppendText("Day " & bytJan & " " & decPenny)
+                bytDec = bytDec + 1
+                strmath = 0
+            Loop
+        Else
+            rtbInfo.AppendText("Please display salary without non-numberic characters.")
+        End If
+
+
+        'Result Outputs below here
+
+        'Reset variables below here
+    End Sub
+End Class

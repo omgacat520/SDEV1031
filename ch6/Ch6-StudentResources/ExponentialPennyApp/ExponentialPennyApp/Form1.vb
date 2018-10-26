@@ -1,6 +1,7 @@
 ﻿Public Class Form1
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         'so, this is gonna be a lot of loops and if-statements, but I gotta figure out a calculation for each month for the penny on each individual day, (Nest if-loops in loops that are designated to months) and I gotta figure out when it would be technically more profitable to work for salary and when it would be more profitable to have the penny expontential function (two separate functions, one exponential, the other is a linear increase of 5000$, graph the intersection for an if-statement.)
+
         'Reset variables below here
         rtbInfo.Clear()
         'variables below here
