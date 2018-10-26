@@ -21,3 +21,14 @@ G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\LifetimeEarnings\Lifetime
 G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.frmLifetimeEarnings.resources
 G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.Resources.resources
 G:\DATC\My1031-V2\BookResources\Ch06\Chapter06Programs\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.vbproj.GenerateResource.Cache
+C:\Users\Jake\Documents\SDEV1031afterch2\ch6\Ch6-StudentResources\Ch6-StudentResources\LifetimeEarnings\LifetimeEarnings\bin\Debug\LifetimeEarnings.exe
+C:\Users\Jake\Documents\SDEV1031afterch2\ch6\Ch6-StudentResources\Ch6-StudentResources\LifetimeEarnings\LifetimeEarnings\bin\Debug\LifetimeEarnings.pdb
+C:\Users\Jake\Documents\SDEV1031afterch2\ch6\Ch6-StudentResources\Ch6-StudentResources\LifetimeEarnings\LifetimeEarnings\bin\Debug\LifetimeEarnings.xml
+C:\Users\Jake\Documents\SDEV1031afterch2\ch6\Ch6-StudentResources\Ch6-StudentResources\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.vbprojAssemblyReference.cache
+C:\Users\Jake\Documents\SDEV1031afterch2\ch6\Ch6-StudentResources\Ch6-StudentResources\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.frmLifetimeEarnings.resources
+C:\Users\Jake\Documents\SDEV1031afterch2\ch6\Ch6-StudentResources\Ch6-StudentResources\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.Resources.resources
+C:\Users\Jake\Documents\SDEV1031afterch2\ch6\Ch6-StudentResources\Ch6-StudentResources\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.vbproj.GenerateResource.cache
+C:\Users\Jake\Documents\SDEV1031afterch2\ch6\Ch6-StudentResources\Ch6-StudentResources\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.vbproj.CoreCompileInputs.cache
+C:\Users\Jake\Documents\SDEV1031afterch2\ch6\Ch6-StudentResources\Ch6-StudentResources\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.exe
+C:\Users\Jake\Documents\SDEV1031afterch2\ch6\Ch6-StudentResources\Ch6-StudentResources\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.xml
+C:\Users\Jake\Documents\SDEV1031afterch2\ch6\Ch6-StudentResources\Ch6-StudentResources\LifetimeEarnings\LifetimeEarnings\obj\Debug\LifetimeEarnings.pdb
