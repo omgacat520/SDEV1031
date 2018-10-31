@@ -10,3 +10,15 @@ C:\Users\Jake\Documents\SDEV1031afterch2\ch5\ch5Projects\HiLoGame\HiLoGame\obj\D
 C:\Users\Jake\Documents\SDEV1031afterch2\ch5\ch5Projects\HiLoGame\HiLoGame\obj\Debug\HiLoGame.exe
 C:\Users\Jake\Documents\SDEV1031afterch2\ch5\ch5Projects\HiLoGame\HiLoGame\obj\Debug\HiLoGame.xml
 C:\Users\Jake\Documents\SDEV1031afterch2\ch5\ch5Projects\HiLoGame\HiLoGame\obj\Debug\HiLoGame.pdb
+C:\Users\Jake\Documents\GitHub\SDEV1031\ch5\ch5Projects\HiLoGame\HiLoGame\bin\Debug\HiLoGame.exe.config
+C:\Users\Jake\Documents\GitHub\SDEV1031\ch5\ch5Projects\HiLoGame\HiLoGame\bin\Debug\HiLoGame.exe
+C:\Users\Jake\Documents\GitHub\SDEV1031\ch5\ch5Projects\HiLoGame\HiLoGame\bin\Debug\HiLoGame.pdb
+C:\Users\Jake\Documents\GitHub\SDEV1031\ch5\ch5Projects\HiLoGame\HiLoGame\bin\Debug\HiLoGame.xml
+C:\Users\Jake\Documents\GitHub\SDEV1031\ch5\ch5Projects\HiLoGame\HiLoGame\obj\Debug\HiLoGame.vbprojAssemblyReference.cache
+C:\Users\Jake\Documents\GitHub\SDEV1031\ch5\ch5Projects\HiLoGame\HiLoGame\obj\Debug\HiLoGame.Form1.resources
+C:\Users\Jake\Documents\GitHub\SDEV1031\ch5\ch5Projects\HiLoGame\HiLoGame\obj\Debug\HiLoGame.Resources.resources
+C:\Users\Jake\Documents\GitHub\SDEV1031\ch5\ch5Projects\HiLoGame\HiLoGame\obj\Debug\HiLoGame.vbproj.GenerateResource.cache
+C:\Users\Jake\Documents\GitHub\SDEV1031\ch5\ch5Projects\HiLoGame\HiLoGame\obj\Debug\HiLoGame.vbproj.CoreCompileInputs.cache
+C:\Users\Jake\Documents\GitHub\SDEV1031\ch5\ch5Projects\HiLoGame\HiLoGame\obj\Debug\HiLoGame.exe
+C:\Users\Jake\Documents\GitHub\SDEV1031\ch5\ch5Projects\HiLoGame\HiLoGame\obj\Debug\HiLoGame.xml
+C:\Users\Jake\Documents\GitHub\SDEV1031\ch5\ch5Projects\HiLoGame\HiLoGame\obj\Debug\HiLoGame.pdb

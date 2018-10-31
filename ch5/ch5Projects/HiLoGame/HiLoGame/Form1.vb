@@ -25,7 +25,7 @@
             'determine high/low
             decBet = Convert.ToDecimal(txtBet.Text)
             Select Case bytResult
-                Case <= 8
+                Case < 8
                     rtbResults.AppendText("Sorry, you lose. -" & decBet.ToString & vbNewLine)
                     rtbNumber.AppendText(bytResult.ToString & vbNewLine)
                     decPoints = decPoints - decBet
@@ -72,7 +72,7 @@
             'determine high/low
             decBet = Convert.ToDecimal(txtBet.Text)
             Select Case bytResult
-                Case <= 8
+                Case < 8
                     rtbResults.AppendText("Nice guess, you win! +" & decBet.ToString & vbNewLine)
                     rtbNumber.AppendText(bytResult.ToString & vbNewLine)
                     decPoints = decPoints + decBet
@@ -86,7 +86,7 @@
             lblPoints.Text = decPoints.ToString
 
             'lose condition
-            If decPoints < 0 Then
+            If decPoints <= 0 Then
                 btnHigh.Visible = False
                 btnLow.Visible = False
                 rtbResults.Clear()
