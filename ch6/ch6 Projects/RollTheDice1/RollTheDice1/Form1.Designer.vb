@@ -23,19 +23,22 @@ Partial Class Form1
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.txtRollNumber = New System.Windows.Forms.TextBox()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
-        Me.Label8 = New System.Windows.Forms.Label()
-        Me.Label9 = New System.Windows.Forms.Label()
-        Me.Label10 = New System.Windows.Forms.Label()
-        Me.Label11 = New System.Windows.Forms.Label()
-        Me.Label12 = New System.Windows.Forms.Label()
-        Me.Label13 = New System.Windows.Forms.Label()
+        Me.lblOut1 = New System.Windows.Forms.Label()
+        Me.lblOut2 = New System.Windows.Forms.Label()
+        Me.lblOut3 = New System.Windows.Forms.Label()
+        Me.lblOut4 = New System.Windows.Forms.Label()
+        Me.lblOut5 = New System.Windows.Forms.Label()
+        Me.lblOut6 = New System.Windows.Forms.Label()
+        Me.btnQuit = New System.Windows.Forms.Button()
+        Me.btnRoll = New System.Windows.Forms.Button()
+        Me.rtbInfo = New System.Windows.Forms.RichTextBox()
         Me.SuspendLayout()
         '
         'Label1
@@ -48,17 +51,18 @@ Partial Class Form1
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "How Many Rolls?"
         '
-        'TextBox1
+        'txtRollNumber
         '
-        Me.TextBox1.Location = New System.Drawing.Point(108, 6)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(34, 20)
-        Me.TextBox1.TabIndex = 1
+        Me.txtRollNumber.Location = New System.Drawing.Point(108, 6)
+        Me.txtRollNumber.Name = "txtRollNumber"
+        Me.txtRollNumber.Size = New System.Drawing.Size(34, 20)
+        Me.txtRollNumber.TabIndex = 1
         '
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(63, 44)
+        Me.Label2.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Label2.Location = New System.Drawing.Point(12, 44)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(46, 13)
         Me.Label2.TabIndex = 2
@@ -67,7 +71,8 @@ Partial Class Form1
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(63, 66)
+        Me.Label3.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Label3.Location = New System.Drawing.Point(12, 66)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(46, 13)
         Me.Label3.TabIndex = 3
@@ -76,7 +81,8 @@ Partial Class Form1
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(63, 89)
+        Me.Label4.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Label4.Location = New System.Drawing.Point(12, 89)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(46, 13)
         Me.Label4.TabIndex = 4
@@ -85,7 +91,8 @@ Partial Class Form1
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(63, 112)
+        Me.Label5.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Label5.Location = New System.Drawing.Point(12, 112)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(46, 13)
         Me.Label5.TabIndex = 5
@@ -94,7 +101,8 @@ Partial Class Form1
         'Label6
         '
         Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(63, 136)
+        Me.Label6.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Label6.Location = New System.Drawing.Point(12, 136)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(46, 13)
         Me.Label6.TabIndex = 6
@@ -103,104 +111,138 @@ Partial Class Form1
         'Label7
         '
         Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(63, 158)
+        Me.Label7.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Label7.Location = New System.Drawing.Point(12, 158)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(46, 13)
         Me.Label7.TabIndex = 7
         Me.Label7.Text = "Rolled 6"
         '
-        'Label8
+        'lblOut1
         '
-        Me.Label8.AutoSize = True
-        Me.Label8.Location = New System.Drawing.Point(115, 44)
-        Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(39, 13)
-        Me.Label8.TabIndex = 8
-        Me.Label8.Text = "Label8"
+        Me.lblOut1.AutoSize = True
+        Me.lblOut1.Location = New System.Drawing.Point(64, 44)
+        Me.lblOut1.Name = "lblOut1"
+        Me.lblOut1.Size = New System.Drawing.Size(39, 13)
+        Me.lblOut1.TabIndex = 8
+        Me.lblOut1.Text = "Label8"
         '
-        'Label9
+        'lblOut2
         '
-        Me.Label9.AutoSize = True
-        Me.Label9.Location = New System.Drawing.Point(115, 66)
-        Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(39, 13)
-        Me.Label9.TabIndex = 9
-        Me.Label9.Text = "Label9"
+        Me.lblOut2.AutoSize = True
+        Me.lblOut2.Location = New System.Drawing.Point(64, 66)
+        Me.lblOut2.Name = "lblOut2"
+        Me.lblOut2.Size = New System.Drawing.Size(39, 13)
+        Me.lblOut2.TabIndex = 9
+        Me.lblOut2.Text = "Label9"
         '
-        'Label10
+        'lblOut3
         '
-        Me.Label10.AutoSize = True
-        Me.Label10.Location = New System.Drawing.Point(115, 89)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(45, 13)
-        Me.Label10.TabIndex = 10
-        Me.Label10.Text = "Label10"
+        Me.lblOut3.AutoSize = True
+        Me.lblOut3.Location = New System.Drawing.Point(64, 89)
+        Me.lblOut3.Name = "lblOut3"
+        Me.lblOut3.Size = New System.Drawing.Size(45, 13)
+        Me.lblOut3.TabIndex = 10
+        Me.lblOut3.Text = "Label10"
         '
-        'Label11
+        'lblOut4
         '
-        Me.Label11.AutoSize = True
-        Me.Label11.Location = New System.Drawing.Point(115, 112)
-        Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(45, 13)
-        Me.Label11.TabIndex = 11
-        Me.Label11.Text = "Label11"
+        Me.lblOut4.AutoSize = True
+        Me.lblOut4.Location = New System.Drawing.Point(64, 112)
+        Me.lblOut4.Name = "lblOut4"
+        Me.lblOut4.Size = New System.Drawing.Size(45, 13)
+        Me.lblOut4.TabIndex = 11
+        Me.lblOut4.Text = "Label11"
         '
-        'Label12
+        'lblOut5
         '
-        Me.Label12.AutoSize = True
-        Me.Label12.Location = New System.Drawing.Point(115, 136)
-        Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(45, 13)
-        Me.Label12.TabIndex = 12
-        Me.Label12.Text = "Label12"
+        Me.lblOut5.AutoSize = True
+        Me.lblOut5.Location = New System.Drawing.Point(64, 136)
+        Me.lblOut5.Name = "lblOut5"
+        Me.lblOut5.Size = New System.Drawing.Size(45, 13)
+        Me.lblOut5.TabIndex = 12
+        Me.lblOut5.Text = "Label12"
         '
-        'Label13
+        'lblOut6
         '
-        Me.Label13.AutoSize = True
-        Me.Label13.Location = New System.Drawing.Point(115, 158)
-        Me.Label13.Name = "Label13"
-        Me.Label13.Size = New System.Drawing.Size(45, 13)
-        Me.Label13.TabIndex = 13
-        Me.Label13.Text = "Label13"
+        Me.lblOut6.AutoSize = True
+        Me.lblOut6.Location = New System.Drawing.Point(64, 158)
+        Me.lblOut6.Name = "lblOut6"
+        Me.lblOut6.Size = New System.Drawing.Size(45, 13)
+        Me.lblOut6.TabIndex = 13
+        Me.lblOut6.Text = "Label13"
+        '
+        'btnQuit
+        '
+        Me.btnQuit.Location = New System.Drawing.Point(160, 148)
+        Me.btnQuit.Name = "btnQuit"
+        Me.btnQuit.Size = New System.Drawing.Size(75, 23)
+        Me.btnQuit.TabIndex = 14
+        Me.btnQuit.Text = "Quit"
+        Me.btnQuit.UseVisualStyleBackColor = True
+        '
+        'btnRoll
+        '
+        Me.btnRoll.Location = New System.Drawing.Point(160, 121)
+        Me.btnRoll.Name = "btnRoll"
+        Me.btnRoll.Size = New System.Drawing.Size(75, 23)
+        Me.btnRoll.TabIndex = 15
+        Me.btnRoll.Text = "Roll!"
+        Me.btnRoll.UseVisualStyleBackColor = True
+        '
+        'rtbInfo
+        '
+        Me.rtbInfo.Location = New System.Drawing.Point(148, 12)
+        Me.rtbInfo.Name = "rtbInfo"
+        Me.rtbInfo.ReadOnly = True
+        Me.rtbInfo.Size = New System.Drawing.Size(87, 103)
+        Me.rtbInfo.TabIndex = 16
+        Me.rtbInfo.Text = ""
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(746, 492)
-        Me.Controls.Add(Me.Label13)
-        Me.Controls.Add(Me.Label12)
-        Me.Controls.Add(Me.Label11)
-        Me.Controls.Add(Me.Label10)
-        Me.Controls.Add(Me.Label9)
-        Me.Controls.Add(Me.Label8)
+        Me.ClientSize = New System.Drawing.Size(245, 185)
+        Me.Controls.Add(Me.rtbInfo)
+        Me.Controls.Add(Me.btnRoll)
+        Me.Controls.Add(Me.btnQuit)
+        Me.Controls.Add(Me.lblOut6)
+        Me.Controls.Add(Me.lblOut5)
+        Me.Controls.Add(Me.lblOut4)
+        Me.Controls.Add(Me.lblOut3)
+        Me.Controls.Add(Me.lblOut2)
+        Me.Controls.Add(Me.lblOut1)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
-        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.txtRollNumber)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Roll the dice!"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
     End Sub
 
     Friend WithEvents Label1 As Label
-    Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents txtRollNumber As TextBox
     Friend WithEvents Label2 As Label
     Friend WithEvents Label3 As Label
     Friend WithEvents Label4 As Label
     Friend WithEvents Label5 As Label
     Friend WithEvents Label6 As Label
     Friend WithEvents Label7 As Label
-    Friend WithEvents Label8 As Label
-    Friend WithEvents Label9 As Label
-    Friend WithEvents Label10 As Label
-    Friend WithEvents Label11 As Label
-    Friend WithEvents Label12 As Label
-    Friend WithEvents Label13 As Label
+    Friend WithEvents lblOut1 As Label
+    Friend WithEvents lblOut2 As Label
+    Friend WithEvents lblOut3 As Label
+    Friend WithEvents lblOut4 As Label
+    Friend WithEvents lblOut5 As Label
+    Friend WithEvents lblOut6 As Label
+    Friend WithEvents btnQuit As Button
+    Friend WithEvents btnRoll As Button
+    Friend WithEvents rtbInfo As RichTextBox
 End Class
