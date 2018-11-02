@@ -55,9 +55,9 @@ Partial Class Form1
         Me.Label2.Font = New System.Drawing.Font("Malgun Gothic", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.Location = New System.Drawing.Point(12, 53)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(103, 21)
+        Me.Label2.Size = New System.Drawing.Size(135, 21)
         Me.Label2.TabIndex = 1
-        Me.Label2.Text = "Growth rate"
+        Me.Label2.Text = "Growth rate (%)"
         '
         'Label3
         '
@@ -103,7 +103,7 @@ Partial Class Form1
         '
         Me.Label7.AutoSize = True
         Me.Label7.Font = New System.Drawing.Font("Malgun Gothic", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(27, 380)
+        Me.Label7.Location = New System.Drawing.Point(12, 380)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(77, 21)
         Me.Label7.TabIndex = 6
@@ -111,14 +111,14 @@ Partial Class Form1
         '
         'txtStartAmount
         '
-        Me.txtStartAmount.Location = New System.Drawing.Point(136, 22)
+        Me.txtStartAmount.Location = New System.Drawing.Point(164, 22)
         Me.txtStartAmount.Name = "txtStartAmount"
         Me.txtStartAmount.Size = New System.Drawing.Size(53, 20)
         Me.txtStartAmount.TabIndex = 7
         '
         'txtGrowth
         '
-        Me.txtGrowth.Location = New System.Drawing.Point(136, 56)
+        Me.txtGrowth.Location = New System.Drawing.Point(164, 56)
         Me.txtGrowth.Name = "txtGrowth"
         Me.txtGrowth.Size = New System.Drawing.Size(53, 20)
         Me.txtGrowth.TabIndex = 8
@@ -161,7 +161,7 @@ Partial Class Form1
         '
         Me.lblFutureValue.AutoSize = True
         Me.lblFutureValue.Font = New System.Drawing.Font("Malgun Gothic", 12.0!, System.Drawing.FontStyle.Bold)
-        Me.lblFutureValue.Location = New System.Drawing.Point(99, 380)
+        Me.lblFutureValue.Location = New System.Drawing.Point(95, 380)
         Me.lblFutureValue.Name = "lblFutureValue"
         Me.lblFutureValue.Size = New System.Drawing.Size(156, 21)
         Me.lblFutureValue.TabIndex = 13
@@ -172,7 +172,7 @@ Partial Class Form1
         '
         Me.lblHowLong.AutoSize = True
         Me.lblHowLong.Font = New System.Drawing.Font("Malgun Gothic", 12.0!, System.Drawing.FontStyle.Bold)
-        Me.lblHowLong.Location = New System.Drawing.Point(99, 414)
+        Me.lblHowLong.Location = New System.Drawing.Point(90, 423)
         Me.lblHowLong.Name = "lblHowLong"
         Me.lblHowLong.Size = New System.Drawing.Size(137, 21)
         Me.lblHowLong.TabIndex = 14
@@ -184,7 +184,7 @@ Partial Class Form1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ActiveCaption
-        Me.ClientSize = New System.Drawing.Size(448, 453)
+        Me.ClientSize = New System.Drawing.Size(457, 453)
         Me.Controls.Add(Me.lblHowLong)
         Me.Controls.Add(Me.lblFutureValue)
         Me.Controls.Add(Me.txtTarget)
