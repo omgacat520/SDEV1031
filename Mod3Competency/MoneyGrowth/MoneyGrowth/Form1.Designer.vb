@@ -146,7 +146,7 @@ Partial Class Form1
         Me.btnTime.Location = New System.Drawing.Point(46, 325)
         Me.btnTime.Name = "btnTime"
         Me.btnTime.Size = New System.Drawing.Size(304, 41)
-        Me.btnTime.TabIndex = 11
+        Me.btnTime.TabIndex = 12
         Me.btnTime.Text = "Calculate how long to reach target"
         Me.btnTime.UseVisualStyleBackColor = True
         '
@@ -155,7 +155,7 @@ Partial Class Form1
         Me.txtTarget.Location = New System.Drawing.Point(143, 291)
         Me.txtTarget.Name = "txtTarget"
         Me.txtTarget.Size = New System.Drawing.Size(74, 20)
-        Me.txtTarget.TabIndex = 12
+        Me.txtTarget.TabIndex = 11
         '
         'lblFutureValue
         '

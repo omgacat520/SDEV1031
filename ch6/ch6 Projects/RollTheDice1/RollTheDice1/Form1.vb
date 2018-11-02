@@ -4,7 +4,6 @@
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles btnRoll.Click
-        rtbInfo.Clear() 'This just resets the rtb
         If IsNumeric(txtRollNumber.Text) Then
 
             Dim shoRolls As Short
@@ -26,33 +25,39 @@
 
                 Select Case bytNumber
                     Case Is = 0 'this technically gives zero, but will represent #1
-                        rtbInfo.AppendText("roll #" & i.ToString & " is 1" & vbNewLine)
                         shoRolls1 = shoRolls1 + 1
                         lblOut1.Text = shoRolls1.ToString
+                        lblOut1.Visible = True
                     Case Is = 1
-                        rtbInfo.AppendText("roll #" & i.ToString & " is 2" & vbNewLine)
                         shoRolls2 = shoRolls2 + 1
                         lblOut2.Text = shoRolls2.ToString
+                        lblOut2.Visible = True
                     Case Is = 2
-                        rtbInfo.AppendText("roll #" & i.ToString & " is 3" & vbNewLine)
                         shoRolls3 = shoRolls3 + 1
                         lblOut3.Text = shoRolls3.ToString
+                        lblOut3.Visible = True
                     Case Is = 3
-                        rtbInfo.AppendText("roll #" & i.ToString & " is 4" & vbNewLine)
                         shoRolls4 = shoRolls4 + 1
                         lblOut4.Text = shoRolls4.ToString
+                        lblOut4.Visible = True
                     Case Is = 4
-                        rtbInfo.AppendText("roll #" & i.ToString & " is 5" & vbNewLine)
                         shoRolls5 = shoRolls5 + 1
                         lblOut5.Text = shoRolls5.ToString
+                        lblOut5.Visible = True
                     Case Is = 5
-                        rtbInfo.AppendText("roll #" & i.ToString & " is 6" & vbNewLine)
                         shoRolls6 = shoRolls6 + 1
                         lblOut6.Text = shoRolls6.ToString
+                        lblOut6.Visible = True
                 End Select
             End While
+
+
+
+
+
+
         Else
-            rtbInfo.AppendText("Sorry, please input a valid number.")
+            MessageBox.Show("Please input a valid number.", "try again", MessageBoxButtons.OK, MessageBoxIcon.Error)
         End If
     End Sub
 

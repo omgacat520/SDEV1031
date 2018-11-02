@@ -11,9 +11,13 @@
         Dim bytDesired As Byte = nudDesired.Value
         Dim bytRolledNumber As Byte
         Dim shoCounter As Short
+
+        rtbInfo.Clear() 'Resets the text box
+
         Do Until bytRolledNumber = bytDesired
             shoCounter = shoCounter + 1
             bytRolledNumber = Int(Rnd() * 6) + 1
+            rtbInfo.AppendText("Roll #" & shoCounter.ToString & " is " & bytRolledNumber & vbNewLine)
         Loop
         lblOutput.Visible = True
         lblOutput1.Visible = True

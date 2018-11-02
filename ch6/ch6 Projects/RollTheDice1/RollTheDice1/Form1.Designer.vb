@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Form1
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Form1
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.txtRollNumber = New System.Windows.Forms.TextBox()
@@ -38,7 +38,6 @@ Partial Class Form1
         Me.lblOut6 = New System.Windows.Forms.Label()
         Me.btnQuit = New System.Windows.Forms.Button()
         Me.btnRoll = New System.Windows.Forms.Button()
-        Me.rtbInfo = New System.Windows.Forms.RichTextBox()
         Me.SuspendLayout()
         '
         'Label1
@@ -126,6 +125,7 @@ Partial Class Form1
         Me.lblOut1.Size = New System.Drawing.Size(39, 13)
         Me.lblOut1.TabIndex = 8
         Me.lblOut1.Text = "Label8"
+        Me.lblOut1.Visible = False
         '
         'lblOut2
         '
@@ -135,6 +135,7 @@ Partial Class Form1
         Me.lblOut2.Size = New System.Drawing.Size(39, 13)
         Me.lblOut2.TabIndex = 9
         Me.lblOut2.Text = "Label9"
+        Me.lblOut2.Visible = False
         '
         'lblOut3
         '
@@ -144,6 +145,7 @@ Partial Class Form1
         Me.lblOut3.Size = New System.Drawing.Size(45, 13)
         Me.lblOut3.TabIndex = 10
         Me.lblOut3.Text = "Label10"
+        Me.lblOut3.Visible = False
         '
         'lblOut4
         '
@@ -153,6 +155,7 @@ Partial Class Form1
         Me.lblOut4.Size = New System.Drawing.Size(45, 13)
         Me.lblOut4.TabIndex = 11
         Me.lblOut4.Text = "Label11"
+        Me.lblOut4.Visible = False
         '
         'lblOut5
         '
@@ -162,6 +165,7 @@ Partial Class Form1
         Me.lblOut5.Size = New System.Drawing.Size(45, 13)
         Me.lblOut5.TabIndex = 12
         Me.lblOut5.Text = "Label12"
+        Me.lblOut5.Visible = False
         '
         'lblOut6
         '
@@ -171,6 +175,7 @@ Partial Class Form1
         Me.lblOut6.Size = New System.Drawing.Size(45, 13)
         Me.lblOut6.TabIndex = 13
         Me.lblOut6.Text = "Label13"
+        Me.lblOut6.Visible = False
         '
         'btnQuit
         '
@@ -190,21 +195,11 @@ Partial Class Form1
         Me.btnRoll.Text = "Roll!"
         Me.btnRoll.UseVisualStyleBackColor = True
         '
-        'rtbInfo
-        '
-        Me.rtbInfo.Location = New System.Drawing.Point(148, 12)
-        Me.rtbInfo.Name = "rtbInfo"
-        Me.rtbInfo.ReadOnly = True
-        Me.rtbInfo.Size = New System.Drawing.Size(87, 103)
-        Me.rtbInfo.TabIndex = 16
-        Me.rtbInfo.Text = ""
-        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(245, 185)
-        Me.Controls.Add(Me.rtbInfo)
         Me.Controls.Add(Me.btnRoll)
         Me.Controls.Add(Me.btnQuit)
         Me.Controls.Add(Me.lblOut6)
@@ -244,5 +239,4 @@ Partial Class Form1
     Friend WithEvents lblOut6 As Label
     Friend WithEvents btnQuit As Button
     Friend WithEvents btnRoll As Button
-    Friend WithEvents rtbInfo As RichTextBox
 End Class

@@ -28,6 +28,7 @@ Partial Class Form1
         Me.lblOutput1 = New System.Windows.Forms.Label()
         Me.lblOutput = New System.Windows.Forms.Label()
         Me.nudDesired = New System.Windows.Forms.NumericUpDown()
+        Me.rtbInfo = New System.Windows.Forms.RichTextBox()
         CType(Me.nudDesired, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -91,11 +92,20 @@ Partial Class Form1
         Me.nudDesired.TabIndex = 6
         Me.nudDesired.Value = New Decimal(New Integer() {1, 0, 0, 0})
         '
+        'rtbInfo
+        '
+        Me.rtbInfo.Location = New System.Drawing.Point(177, 30)
+        Me.rtbInfo.Name = "rtbInfo"
+        Me.rtbInfo.Size = New System.Drawing.Size(143, 77)
+        Me.rtbInfo.TabIndex = 7
+        Me.rtbInfo.Text = ""
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(332, 142)
+        Me.Controls.Add(Me.rtbInfo)
         Me.Controls.Add(Me.nudDesired)
         Me.Controls.Add(Me.lblOutput)
         Me.Controls.Add(Me.lblOutput1)
@@ -103,7 +113,7 @@ Partial Class Form1
         Me.Controls.Add(Me.btnRoll)
         Me.Controls.Add(Me.Choose)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "How Many Rolls?"
         CType(Me.nudDesired, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
@@ -115,4 +125,5 @@ Partial Class Form1
     Friend WithEvents lblOutput1 As Label
     Friend WithEvents lblOutput As Label
     Friend WithEvents nudDesired As NumericUpDown
+    Friend WithEvents rtbInfo As RichTextBox
 End Class
