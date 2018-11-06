@@ -4,7 +4,6 @@ Public Class frmFICA
 
     Private Sub btnExit_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnExit.Click
         End
-
     End Sub
 
     Private Sub btnFICA_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnFICA.Click
@@ -15,16 +14,16 @@ Public Class frmFICA
         decWages = txtWages.Text
 
         'Processing
-        CalcFICA(decFICA)
+        decFICA = CalcFICA(decWages)
 
         'Output
         lblFICA.Text = decFICA.ToString("c")
 
     End Sub
 
-    Private Sub CalcFICA(ByVal decPay As Decimal)
+    Private Function CalcFICA(ByVal decWages As Decimal)
         Const sngFICA As Single = 0.0765
-        decPay = decPay * sngFICA
 
-    End Sub
+        Return decWages * sngFICA
+    End Function
 End Class
