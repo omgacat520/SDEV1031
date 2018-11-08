@@ -25,7 +25,7 @@ Partial Class Form1
         Me.Label1 = New System.Windows.Forms.Label()
         Me.txtYear = New System.Windows.Forms.TextBox()
         Me.btnMethodA = New System.Windows.Forms.Button()
-        Me.btnMethod2 = New System.Windows.Forms.Button()
+        Me.btnMethodB = New System.Windows.Forms.Button()
         Me.lblOutput = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
@@ -56,15 +56,15 @@ Partial Class Form1
         Me.btnMethodA.Text = "Method A"
         Me.btnMethodA.UseVisualStyleBackColor = False
         '
-        'btnMethod2
+        'btnMethodB
         '
-        Me.btnMethod2.BackColor = System.Drawing.Color.Moccasin
-        Me.btnMethod2.Location = New System.Drawing.Point(241, 38)
-        Me.btnMethod2.Name = "btnMethod2"
-        Me.btnMethod2.Size = New System.Drawing.Size(112, 47)
-        Me.btnMethod2.TabIndex = 3
-        Me.btnMethod2.Text = "Method B"
-        Me.btnMethod2.UseVisualStyleBackColor = False
+        Me.btnMethodB.BackColor = System.Drawing.Color.Moccasin
+        Me.btnMethodB.Location = New System.Drawing.Point(241, 38)
+        Me.btnMethodB.Name = "btnMethodB"
+        Me.btnMethodB.Size = New System.Drawing.Size(112, 47)
+        Me.btnMethodB.TabIndex = 3
+        Me.btnMethodB.Text = "Method B"
+        Me.btnMethodB.UseVisualStyleBackColor = False
         '
         'lblOutput
         '
@@ -84,7 +84,7 @@ Partial Class Form1
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(412, 179)
         Me.Controls.Add(Me.lblOutput)
-        Me.Controls.Add(Me.btnMethod2)
+        Me.Controls.Add(Me.btnMethodB)
         Me.Controls.Add(Me.btnMethodA)
         Me.Controls.Add(Me.txtYear)
         Me.Controls.Add(Me.Label1)
@@ -98,6 +98,6 @@ Partial Class Form1
     Friend WithEvents Label1 As Label
     Friend WithEvents txtYear As TextBox
     Friend WithEvents btnMethodA As Button
-    Friend WithEvents btnMethod2 As Button
+    Friend WithEvents btnMethodB As Button
     Friend WithEvents lblOutput As Label
 End Class

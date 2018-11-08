@@ -133,7 +133,7 @@ Partial Class Form1
         Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Margin = New System.Windows.Forms.Padding(4)
         Me.Name = "Form1"
-        Me.Text = "Game of High-Low"
+        Me.Text = "Game of High-Low - Jake Ildefonso"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
