@@ -19,9 +19,9 @@
 
             'get type of new card, is it high, low, or seven?
 
-            strCardType = GetCard()
+            strCardType = GetCard() 'this is supposed to assign strCardType as GetCard() return, but it isn't assigning???? Why?
+            System.Diagnostics.Debug.WriteLine("strCardType Variable = " & strCardType)
             intcard = KeepCard(intcard) 'this is a separate function, identical to GetCard but doesn't return a string, instead returns a integer.
-            System.Diagnostics.Debug.WriteLine("CardType Variable = " & strCardType)
 
             'This is working, sorta. Card output and point alteration is primary concerns.
 
@@ -38,7 +38,7 @@
 
             IsGameOver(intTotalPoints) 'check if game is over
         Else
-            System.Diagnostics.Debug.WriteLine("GetCard() = " & GetCard())
+            System.Diagnostics.Debug.WriteLine("GetCard() = " & GetCard() & " and If_strCardType statement has failed.")
             lblResult.Text = "Check your risk, try again" 'not enough points to play, let user know, or this means that your string was not a valid return.
         End If
 
@@ -77,15 +77,18 @@
 
         If NewCardLocal > 26 And NewCardLocal <> 7 Then
             System.Diagnostics.Debug.WriteLine("GetCard() returned with high")
+
             Return "high"
             'Return NewCardLocal
 
         ElseIf NewCardLocal = 7 Then
             System.Diagnostics.Debug.WriteLine("GetCard() returned with seven")
+
             Return "seven"
             'Return NewCardLocal
         Else
             System.Diagnostics.Debug.WriteLine("GetCard() returned with low")
+
             Return "low"
             'Return NewCardLocal
         End If
@@ -98,9 +101,11 @@
 
         Dim NewCardLocal As Decimal
 
-        System.Diagnostics.Debug.WriteLine("PreCalc NewCardLocal = " & NewCardLocal)
+        System.Diagnostics.Debug.WriteLine("PreCalc NewCardLocal(KeepCard) = " & NewCardLocal)
 
         NewCardLocal = Int((Rnd() * 52) + 1) 'Random number between 1 and 52 generated here, which is stored in NewCardLocal as a local variable for modularized function.
+
+        System.Diagnostics.Debug.WriteLine("PostCalc NewCardLocal(KeepCard) = " & NewCardLocal)
 
         Return NewCardLocal
     End Function
