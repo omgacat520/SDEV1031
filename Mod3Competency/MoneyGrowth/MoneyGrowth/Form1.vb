@@ -1,5 +1,5 @@
 ﻿Public Class Form1
-
+    'THINGS TO FIX: Condense rendered output into 1 label, include FOR and WHILE loops, and assign TextBox input to variable BEFORE attempting any calculations.
     Private Sub btnFutureValue_Click(sender As Object, e As EventArgs) Handles btnFutureValue.Click
         'CALCULATING FUTURE VALUE / VALUE
         'if statements determine if users input was numeric and not something weird like letters. From outside in, the order goes, StartAmt, Growth, Target, and decAmount
