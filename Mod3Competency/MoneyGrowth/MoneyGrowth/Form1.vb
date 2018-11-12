@@ -1,5 +1,5 @@
 ﻿Public Class Form1
-    'THINGS TO FIX: Condense rendered output into 1 label, include FOR and WHILE loops, and assign TextBox input to variable BEFORE attempting any calculations.
+    'THINGS TO FIX: include FOR and WHILE - cheqq loops, and assign TextBox input to variable BEFORE attempting any calculations.
     Private Sub btnFutureValue_Click(sender As Object, e As EventArgs) Handles btnFutureValue.Click
         'CALCULATING FUTURE VALUE / VALUE
         'if statements determine if users input was numeric and not something weird like letters. From outside in, the order goes, StartAmt, Growth, Target, and decAmount
@@ -23,15 +23,16 @@
 
                     decAmount = decStartAmount
 
-                    Do Until intCycleCounter = intCycles 'So timeline begins counting at 1 instead of zero, which will make more sense logically imo.
+                    For i = 1 To intCycles 'So timeline begins counting at 1 instead of zero, which will make more sense logically imo.
 
                         decAmount = decAmount * decGrowth
                         intCycleCounter = intCycleCounter + 1
                         System.Diagnostics.Debug.WriteLine("Dec Amount is " & decAmount & " on cycle #" & intCycleCounter)
-                    Loop
+                    Next i
+
                     'output result
-                    lblFutureValue.Text = "Future Value: " & decAmount.ToString("c")
-                    lblFutureValue.Visible = True
+                    lblOutput.Text = "Future Value: " & decAmount.ToString("c")
+                    lblOutput.Visible = True
 
 
 
@@ -78,14 +79,14 @@
 
                     decAmount = decStartAmount
 
-                    Do Until decTargetAmount <= decAmount
+                    Do While decTargetAmount > decAmount
                         intCycleCounter = intCycleCounter + 1
                         decAmount = decAmount * decGrowth
                         System.Diagnostics.Debug.WriteLine("dec amount is " & decAmount & " @" & intCycleCounter)
                     Loop
 
-                    lblHowLong.Visible = True
-                    lblHowLong.Text = intCycleCounter.ToString & " Cycles to reach target value at " & decAmount.ToString("c")
+                    lblOutput.Visible = True
+                    lblOutput.Text = intCycleCounter.ToString & " Cycles to reach target value at " & decAmount.ToString("c")
 
 
                 Else

@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Form1
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Form1
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
@@ -35,8 +35,7 @@ Partial Class Form1
         Me.btnFutureValue = New System.Windows.Forms.Button()
         Me.btnTime = New System.Windows.Forms.Button()
         Me.txtTarget = New System.Windows.Forms.TextBox()
-        Me.lblFutureValue = New System.Windows.Forms.Label()
-        Me.lblHowLong = New System.Windows.Forms.Label()
+        Me.lblOutput = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Label1
@@ -157,27 +156,16 @@ Partial Class Form1
         Me.txtTarget.Size = New System.Drawing.Size(74, 20)
         Me.txtTarget.TabIndex = 11
         '
-        'lblFutureValue
+        'lblOutput
         '
-        Me.lblFutureValue.AutoSize = True
-        Me.lblFutureValue.Font = New System.Drawing.Font("Malgun Gothic", 12.0!, System.Drawing.FontStyle.Bold)
-        Me.lblFutureValue.Location = New System.Drawing.Point(95, 380)
-        Me.lblFutureValue.Name = "lblFutureValue"
-        Me.lblFutureValue.Size = New System.Drawing.Size(156, 21)
-        Me.lblFutureValue.TabIndex = 13
-        Me.lblFutureValue.Text = "FutureValueOutput"
-        Me.lblFutureValue.Visible = False
-        '
-        'lblHowLong
-        '
-        Me.lblHowLong.AutoSize = True
-        Me.lblHowLong.Font = New System.Drawing.Font("Malgun Gothic", 12.0!, System.Drawing.FontStyle.Bold)
-        Me.lblHowLong.Location = New System.Drawing.Point(90, 423)
-        Me.lblHowLong.Name = "lblHowLong"
-        Me.lblHowLong.Size = New System.Drawing.Size(137, 21)
-        Me.lblHowLong.TabIndex = 14
-        Me.lblHowLong.Text = "HowLongOutput"
-        Me.lblHowLong.Visible = False
+        Me.lblOutput.AutoSize = True
+        Me.lblOutput.Font = New System.Drawing.Font("Malgun Gothic", 12.0!, System.Drawing.FontStyle.Bold)
+        Me.lblOutput.Location = New System.Drawing.Point(95, 380)
+        Me.lblOutput.Name = "lblOutput"
+        Me.lblOutput.Size = New System.Drawing.Size(82, 21)
+        Me.lblOutput.TabIndex = 13
+        Me.lblOutput.Text = "lblOutput"
+        Me.lblOutput.Visible = False
         '
         'Form1
         '
@@ -185,8 +173,7 @@ Partial Class Form1
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ActiveCaption
         Me.ClientSize = New System.Drawing.Size(457, 453)
-        Me.Controls.Add(Me.lblHowLong)
-        Me.Controls.Add(Me.lblFutureValue)
+        Me.Controls.Add(Me.lblOutput)
         Me.Controls.Add(Me.txtTarget)
         Me.Controls.Add(Me.btnTime)
         Me.Controls.Add(Me.btnFutureValue)
@@ -220,6 +207,5 @@ Partial Class Form1
     Friend WithEvents btnFutureValue As Button
     Friend WithEvents btnTime As Button
     Friend WithEvents txtTarget As TextBox
-    Friend WithEvents lblFutureValue As Label
-    Friend WithEvents lblHowLong As Label
+    Friend WithEvents lblOutput As Label
 End Class
