@@ -49,5 +49,6 @@
 
         Next i
         lblOutput.Text = StrConv(strFirstNameUpdated, VbStrConv.ProperCase) & " " & StrConv(strLastNameUpdated, VbStrConv.ProperCase)
+        lblOutput.Visible = True
     End Sub
 End Class
