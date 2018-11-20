@@ -1,6 +1,5 @@
 # SDEV1031
 Software Development Files
-File sharing for two seperate devices, for a class. Don't Mind me! :)
 
 SETUP
 >>cd repo <-- Remember to specify where the git init will place repository for concise file organization within the PC. (also prevents hacking by not allowing remote editing of localized files on ENTIRE pc.)<br>
