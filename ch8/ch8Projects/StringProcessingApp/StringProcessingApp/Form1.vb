@@ -53,13 +53,18 @@
 
         'having it substringed before this function actually splits the original string, causing it to be significantly smaller than when we first got its length value at the beginning, meaning that we'll need to reassign the length value twice.
 
-        Dim c As String
-        For i = (strInput.Length) To 1 Step -1
+        For i = (strInput.Length - 1) To 0 Step -1
 
-            c = GetChar(strInput, i)
+            'c = GetChar(strFirstName, i)
+            'strFirstNameUpdated = strFirstNameUpdated & c
 
-            strInputUpdated &= c
-            Debug.WriteLine("GetCharacter Loop = '" & strInputUpdated & "' loop #" & i)
+            strInputUpdated &= strInput.Substring(i, 1) 'Ok, I copied the code over from the Project File, but I genuinely just don't understand how this works, doesn't the computer index strings by doing (Lowest part of index, highest part of index) for a substring? How does it take this higher value and go to one? Can it work backwards like that? This is blowing my mind.
+
+            If strInput.Length = 1 Then 'capitalizes first character
+                strInput = strInput.ToUpper
+            End If
+
+            'Debug.WriteLine("ReverseSubstring Loop = '" & strFirstNameUpdated & "' loop #" & i)
 
         Next i
         lblOutput.Text = strInputUpdated
@@ -70,19 +75,23 @@
         'Space Index
         Dim intSpaceIndex As Integer
         Dim strInput As String
+        Dim strInputUpdated As String
+        Dim intStringMax As Integer
 
         strInput = txtInput.Text
 
         intSpaceIndex = strInput.IndexOf(" ") 'character index of space in string.
+        intStringMax = strInput.Length
+        strInputUpdated = strInput.Substring(intSpaceIndex, (intStringMax - intSpaceIndex))
 
-        lblOutput.Text = intSpaceIndex.ToString & " (Starts at 0)"
+        lblOutput.Text = strInputUpdated
         lblOutput.Visible = True
     End Sub
 
     Private Sub btnPadLeft_Click(sender As Object, e As EventArgs) Handles btnPadLeft.Click
         'PAD LEFT - this doesn't work if the string is multi-worded or has a space.
         Dim strMasterString As String
-        Dim intMaxChars As Integer = 20
+        Dim intMaxChars As Integer = 18
         Dim strInput As String
         Dim intPaddedNeeded As Integer
 
@@ -91,21 +100,22 @@
         If intMaxChars - strInput.Length >= 0 Then
             intPaddedNeeded = (intMaxChars - strInput.Length) 'amount of padding needed to make 20 characters
 
-            strMasterString = "@" & strInput.PadLeft(intPaddedNeeded) & "@" 'I'm acting on the assumption that the 20 character limit acts without accounting the @ symbols.
+            strMasterString = "@" & strInput.PadLeft(18) & "@" 'I'm acting on the assumption that the 20 character limit acts while accounting the @ symbols.
 
             lblOutput.Text = strMasterString
             lblOutput.Visible = True
-            Debug.WriteLine("Length of masterstring is " & strMasterString.Length)
+
         Else
             'Error message, can't display 20 chars if the input exceeds 20 chars.
             MessageBox.Show("A string with extra padding and additional characters thats 20 characters long can't exist if the initial string is greater than 20.")
         End If
+        'Debug.WriteLine("Length of masterstring is " & strMasterString.Length)
     End Sub
 
     Private Sub btnPadRight_Click(sender As Object, e As EventArgs) Handles btnPadRight.Click
         'PAD RIGHT
         Dim strMasterString As String
-        Dim intMaxChars As Integer = 20
+        Dim intMaxChars As Integer = 18
         Dim strInput As String
         Dim intPaddedNeeded As Integer
 
@@ -114,7 +124,7 @@
         If intMaxChars - strInput.Length >= 0 Then
             intPaddedNeeded = (intMaxChars - strInput.Length)
 
-            strMasterString = "@" & strInput.PadRight(intPaddedNeeded, "*") & "@" 'I'm acting on the assumption that the 20 character limit acts without accounting the @ symbols.
+            strMasterString = "@" & strInput.PadRight(18, "*") & "@" 'I'm acting on the assumption that the 20 character limit acts while accounting the @ symbols.
 
             lblOutput.Text = strMasterString
             lblOutput.Visible = True
@@ -133,9 +143,7 @@
         If strInput.Length < 10 Then
             MessageBox.Show("The character minimum is 10 characters, 5 to skip, 5 to display.")
         ElseIf strInput.Length >= 10 Then
-            For i = 5 To 10 Step 1
-                strOutputString &= GetChar(strInput, i)
-            Next i
+            strOutputString = strInput.Substring(5, 5)
         End If
         lblOutput.Text = strOutputString
         lblOutput.Visible = True
