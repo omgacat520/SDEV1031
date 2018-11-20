@@ -49,12 +49,23 @@
                     strLetter = Chr(intAscLetterVal + 1)
                     strTransOutput2 += strLetter
                 End If
-
+            Else
+                'this takes the i value of the space here, and chooses which string to put the space in based on whether or not its value within the string index is odd or even.
+                If i Mod 2 = 0 Then
+                    intAscLetterVal = Asc(strLetter)
+                    strTransOutput1 += Chr(intAscLetterVal)
+                Else
+                    intAscLetterVal = Asc(strLetter)
+                    strTransOutput2 += Chr(intAscLetterVal)
+                End If
             End If
             lblTransOutput1.Text = "Even ASCII characters: " & strTransOutput1
             lblTransOutput2.Text = "Odd ASCII characters: " & strTransOutput2
             lblTransOutput1.Visible = True
             lblTransOutput2.Visible = True
+
         Next
+        Debug.WriteLine("Even string = " & strTransOutput1)
+        Debug.WriteLine("Odd string = " & strTransOutput2)
     End Sub
 End Class

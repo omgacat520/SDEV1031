@@ -80,7 +80,7 @@
     End Sub
 
     Private Sub btnPadLeft_Click(sender As Object, e As EventArgs) Handles btnPadLeft.Click
-        'PAD LEFT
+        'PAD LEFT - this doesn't work if the string is multi-worded or has a space.
         Dim strMasterString As String
         Dim intMaxChars As Integer = 20
         Dim strInput As String
@@ -89,12 +89,13 @@
         strInput = txtInput.Text
 
         If intMaxChars - strInput.Length >= 0 Then
-            intPaddedNeeded = (intMaxChars - strInput.Length)
+            intPaddedNeeded = (intMaxChars - strInput.Length) 'amount of padding needed to make 20 characters
 
             strMasterString = "@" & strInput.PadLeft(intPaddedNeeded) & "@" 'I'm acting on the assumption that the 20 character limit acts without accounting the @ symbols.
 
             lblOutput.Text = strMasterString
             lblOutput.Visible = True
+            Debug.WriteLine("Length of masterstring is " & strMasterString.Length)
         Else
             'Error message, can't display 20 chars if the input exceeds 20 chars.
             MessageBox.Show("A string with extra padding and additional characters thats 20 characters long can't exist if the initial string is greater than 20.")

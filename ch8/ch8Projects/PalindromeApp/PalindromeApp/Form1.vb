@@ -5,7 +5,7 @@
         strInput = txtInput.Text
 
         strInput = strInput.Replace(" ", "") 'input data correction
-        Debug.WriteLine("strInput after space replace is " & strInput)
+        'Debug.WriteLine("strInput after space replace is " & strInput)
 
         'REVERSE
         Dim strInputUpdated As String
@@ -15,19 +15,22 @@
 
 
 
-        'using index values for a "Man in the middle, AKA the space, we're trying to separate those strings into two substrings, but I keep getting an error at strLastName saying that one of these variable values is outside the (length, I think?) value, even though the variables are assigned integer values. I put a -1 since the character index counts from 1 and the characters are indexed from 0.
+        'using index values for a "Man in the middle", AKA the space, we're trying to separate those strings into two substrings, but I keep getting an error at strLastName saying that one of these variable values is outside the (length, I think?) value, even though the variables are assigned integer values. I put a -1 since the character index counts from 1 and the characters are indexed from 0.
 
         intTotalLength = strInput.Length 'Total String Length
 
         'having it substringed before this function actually splits the original string, causing it to be significantly smaller than when we first got its length value at the beginning, meaning that we'll need to reassign the length value twice.
 
-        Dim c As String
-        For i = (strInput.Length) To 1 Step -1
+        For i = (strInput.Length - 1) To 0 Step -1
 
-            c = GetChar(strInput, i)
+            'c = GetChar(strFirstName, i)
+            'strFirstNameUpdated = strFirstNameUpdated & c
 
-            strInputUpdated &= c
-            Debug.WriteLine("GetCharacter Loop = '" & strInputUpdated & "' loop #" & i)
+            strInputUpdated &= strInput.Substring(i, 1) 'Ok, I copied the code over from the Project File, but I genuinely just don't understand how this works, doesn't the computer index strings by doing (Lowest part of index, highest part of index) for a substring? How does it take this higher value and go to one? Can it work backwards like that? This is blowing my mind.
+
+            If strInput.Length = 1 Then 'capitalizes first character
+                strInput = strInput.ToUpper
+            End If
 
         Next i
         If strInputUpdated = strInput Then
