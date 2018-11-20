@@ -2,7 +2,7 @@
     Private Sub btnExecute_Click(sender As Object, e As EventArgs) Handles btnExecute.Click
         Dim strInput As String
 
-        strInput = txtInput.Text
+        strInput = txtInput.Text.ToLower
 
         strInput = strInput.Replace(" ", "") 'input data correction
         'Debug.WriteLine("strInput after space replace is " & strInput)
@@ -27,10 +27,6 @@
             'strFirstNameUpdated = strFirstNameUpdated & c
 
             strInputUpdated &= strInput.Substring(i, 1) 'Ok, I copied the code over from the Project File, but I genuinely just don't understand how this works, doesn't the computer index strings by doing (Lowest part of index, highest part of index) for a substring? How does it take this higher value and go to one? Can it work backwards like that? This is blowing my mind.
-
-            If strInput.Length = 1 Then 'capitalizes first character
-                strInput = strInput.ToUpper
-            End If
 
         Next i
         If strInputUpdated = strInput Then

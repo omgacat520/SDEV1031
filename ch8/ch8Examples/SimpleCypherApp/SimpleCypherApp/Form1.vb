@@ -38,15 +38,15 @@
             If strLetter <> " " Then
                 intAscLetterVal = Asc(strLetter) 'ascii numerical value
 
-                If intAscLetterVal Mod 2 = 0 Then
+                If i Mod 2 = 0 Then
                     'even ascii values
                     intAscEven = intAscLetterVal
-                    strLetter = Chr(intAscLetterVal + 1)
+                    strLetter = Chr(intAscLetterVal)
                     strTransOutput1 += strLetter
                 Else
                     'odd ascii values
                     intAscOdd = intAscLetterVal
-                    strLetter = Chr(intAscLetterVal + 1)
+                    strLetter = Chr(intAscLetterVal)
                     strTransOutput2 += strLetter
                 End If
             Else
