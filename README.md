@@ -15,7 +15,7 @@ $ git fetch <remote> <--- Replace remote with URL of gitRepository.
 git remote add origin [URL]
 git push -u origin master
 
-DOCUMENTATION / HELP
-https://guides.github.com/
-https://help.github.com/
-https://help.github.com/articles/git-and-github-learning-resources/
+DOCUMENTATION / HELP <br>
+https://guides.github.com/ <br>
+https://help.github.com/ <br>
+https://help.github.com/articles/git-and-github-learning-resources/ <br>
