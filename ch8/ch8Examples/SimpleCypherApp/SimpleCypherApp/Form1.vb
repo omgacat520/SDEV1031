@@ -33,10 +33,10 @@
         'input
         strInput = txtInput.Text
 
-        For i = 0 To strInput.Length - 1
+        For i = 0 To strInput.Length - 1 'loop
             strLetter = strInput.Substring(i, 1)
-            If strLetter <> " " Then
-                intAscLetterVal = Asc(strLetter) 'ascii numerical value
+            If strLetter <> " " Then 'if letter isn't space
+                intAscLetterVal = Asc(strLetter) 'assigning ascii numerical value
 
                 If i Mod 2 = 0 Then
                     'even ascii values
@@ -49,23 +49,15 @@
                     strLetter = Chr(intAscOdd)
                     strTransOutput2 += strLetter
                 End If
-            Else
-                'I VALUE OF SPACE
-                If i Mod 2 = 0 Then
-                    intAscLetterVal = Asc(strLetter)
-                    strTransOutput1 += Chr(intAscLetterVal)
-                Else
-                    intAscLetterVal = Asc(strLetter)
-                    strTransOutput2 += Chr(intAscLetterVal)
-                End If
-            End If
-            lblTransOutput1.Text = "Even ASCII characters: " & strTransOutput1
-            lblTransOutput2.Text = "Odd ASCII characters: " & strTransOutput2
-            lblTransOutput1.Visible = True
-            lblTransOutput2.Visible = True
 
+            End If
         Next
         Debug.WriteLine("Even string = " & strTransOutput1)
         Debug.WriteLine("Odd string = " & strTransOutput2)
+
+        lblTransOutput1.Text = "Even ASCII characters: " & strTransOutput1
+        lblTransOutput2.Text = "Odd ASCII characters: " & strTransOutput2
+        lblTransOutput1.Visible = True
+        lblTransOutput2.Visible = True
     End Sub
 End Class
