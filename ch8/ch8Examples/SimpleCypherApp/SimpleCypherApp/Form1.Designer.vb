@@ -79,7 +79,7 @@ Partial Class Form1
         'lblTransOutput2
         '
         Me.lblTransOutput2.BackColor = System.Drawing.SystemColors.ControlLightLight
-        Me.lblTransOutput2.Location = New System.Drawing.Point(15, 145)
+        Me.lblTransOutput2.Location = New System.Drawing.Point(15, 184)
         Me.lblTransOutput2.Name = "lblTransOutput2"
         Me.lblTransOutput2.Size = New System.Drawing.Size(263, 39)
         Me.lblTransOutput2.TabIndex = 5
@@ -90,7 +90,7 @@ Partial Class Form1
         'lblTransOutput1
         '
         Me.lblTransOutput1.BackColor = System.Drawing.SystemColors.ControlLightLight
-        Me.lblTransOutput1.Location = New System.Drawing.Point(15, 198)
+        Me.lblTransOutput1.Location = New System.Drawing.Point(15, 145)
         Me.lblTransOutput1.Name = "lblTransOutput1"
         Me.lblTransOutput1.Size = New System.Drawing.Size(263, 39)
         Me.lblTransOutput1.TabIndex = 6

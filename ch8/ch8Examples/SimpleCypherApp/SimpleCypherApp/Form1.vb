@@ -40,17 +40,17 @@
 
                 If i Mod 2 = 0 Then
                     'even ascii values
-                    intAscEven = intAscLetterVal
-                    strLetter = Chr(intAscLetterVal)
+                    intAscEven = intAscLetterVal + 1
+                    strLetter = Chr(intAscEven)
                     strTransOutput1 += strLetter
                 Else
                     'odd ascii values
-                    intAscOdd = intAscLetterVal
-                    strLetter = Chr(intAscLetterVal)
+                    intAscOdd = intAscLetterVal + 1
+                    strLetter = Chr(intAscOdd)
                     strTransOutput2 += strLetter
                 End If
             Else
-                'this takes the i value of the space here, and chooses which string to put the space in based on whether or not its value within the string index is odd or even.
+                'I VALUE OF SPACE
                 If i Mod 2 = 0 Then
                     intAscLetterVal = Asc(strLetter)
                     strTransOutput1 += Chr(intAscLetterVal)
