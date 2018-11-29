@@ -34,26 +34,36 @@
         strInput = txtInput.Text
 
         For i = 0 To strInput.Length - 1 'loop
-            strLetter = strInput.Substring(i, 1)
-            If strLetter <> " " Then 'if letter isn't space
-                intAscLetterVal = Asc(strLetter) 'assigning ascii numerical value
 
-                If i Mod 2 = 0 Then
+            strLetter = strInput.Substring(i, 1)
+
+            intAscLetterVal = Asc(strLetter) 'assigning ascii numerical value
+
+            If i Mod 2 = 0 Then 'decides whether the character is odd or even
+                If strLetter <> " " Then
                     'even ascii values
                     intAscEven = intAscLetterVal + 1
                     strLetter = Chr(intAscEven)
                     strTransOutput1 += strLetter
                 Else
+                    'exception handling for space
+                    strTransOutput1 += strLetter
+                End If
+            Else
+                If strLetter <> " " Then
                     'odd ascii values
                     intAscOdd = intAscLetterVal + 1
                     strLetter = Chr(intAscOdd)
                     strTransOutput2 += strLetter
+                Else
+                    'exception handling for space
+                    strTransOutput2 += strLetter
                 End If
-
             End If
+            'Debug.WriteLine("Even string = " & strTransOutput1)
+            'Debug.WriteLine("Odd string = " & strTransOutput2)
         Next
-        Debug.WriteLine("Even string = " & strTransOutput1)
-        Debug.WriteLine("Odd string = " & strTransOutput2)
+
 
         lblTransOutput1.Text = "Even ASCII characters: " & strTransOutput1
         lblTransOutput2.Text = "Odd ASCII characters: " & strTransOutput2
