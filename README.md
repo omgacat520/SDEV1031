@@ -18,3 +18,15 @@ DOCUMENTATION / HELP <br>
 https://guides.github.com/ <br>
 https://help.github.com/ <br>
 https://help.github.com/articles/git-and-github-learning-resources/ <br>
+
+            Else
+                'I VALUE OF SPACE
+                If i Mod 2 = 0 Then
+                    intAscLetterVal = Asc(strLetter)
+                    strTransOutput1 += Chr(intAscLetterVal)
+                Else
+                    intAscLetterVal = Asc(strLetter)
+                    strTransOutput2 += Chr(intAscLetterVal)
+                End If <br>
+
+CODE^
