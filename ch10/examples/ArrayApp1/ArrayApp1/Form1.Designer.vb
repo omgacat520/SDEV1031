@@ -38,7 +38,7 @@ Partial Class Form1
         '
         'btnCalc
         '
-        Me.btnCalc.Location = New System.Drawing.Point(15, 198)
+        Me.btnCalc.Location = New System.Drawing.Point(15, 263)
         Me.btnCalc.Name = "btnCalc"
         Me.btnCalc.Size = New System.Drawing.Size(75, 23)
         Me.btnCalc.TabIndex = 15
@@ -49,7 +49,7 @@ Partial Class Form1
         '
         Me.rtbOutput.Location = New System.Drawing.Point(15, 25)
         Me.rtbOutput.Name = "rtbOutput"
-        Me.rtbOutput.Size = New System.Drawing.Size(297, 167)
+        Me.rtbOutput.Size = New System.Drawing.Size(297, 232)
         Me.rtbOutput.TabIndex = 16
         Me.rtbOutput.Text = ""
         '
@@ -57,7 +57,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(324, 233)
+        Me.ClientSize = New System.Drawing.Size(324, 298)
         Me.Controls.Add(Me.rtbOutput)
         Me.Controls.Add(Me.btnCalc)
         Me.Controls.Add(Me.Label1)
