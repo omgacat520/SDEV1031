@@ -1,12 +1,12 @@
 ﻿Public Class Form1
     Private Sub btnCalc_Click(sender As Object, e As EventArgs) Handles btnCalc.Click
         'input and variable define
-        Dim IntNumArray() As Integer = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+        Dim IntNumArray() As Integer = {15, 6, 3, 4, 5, 1, 7, 8, 9, 10}
         Dim intSum As Integer
         Dim intAvg As Integer
         Dim i As Short 'counter
         Dim intLargest As Integer
-        Dim intSmallest As Integer
+        Dim intSmallest As Integer = IntNumArray(1)
 
         rtbOutput.Clear() 'clear rtb
 
@@ -27,8 +27,6 @@
         rtbOutput.AppendText("Sum: " & intSum & vbNewLine)
         rtbOutput.AppendText("Average: " & intAvg & vbNewLine)
 
-        intSmallest = IntNumArray(IntNumArray.GetLowerBound(0))
-        intLargest = intLargest
 
         rtbOutput.AppendText("smallest number: " & intSmallest.ToString & vbNewLine)
         rtbOutput.AppendText("largest number: " & intLargest.ToString & vbNewLine)
