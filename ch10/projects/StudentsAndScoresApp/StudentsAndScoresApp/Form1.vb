@@ -4,26 +4,54 @@
     Private Sub btnStudentsAscnd_Click(sender As Object, e As EventArgs) Handles btnStudentsAscnd.Click
         Dim strStudentName() As String = {"Ambrose", "Bjorn", "Carob", "Daffyth", "Jake"}
         Dim decStudentScore() As Decimal = {82.3, 98.5, 70.0, 89.1, 92.1}
+        Dim strTemporary As String
+        Dim decTemporary As Decimal
+
         'SORT STUDENTS ASCENDING - list is already alphabetized, so technically could just display names.
         rtbScores.Clear()
         rtbStudents.Clear()
+        For j = strStudentName.GetLowerBound(0) To strStudentName.GetUpperBound(0) - 1
+            For i = strStudentName.GetLowerBound(0) To strStudentName.GetUpperBound(0) - 1
+                If strStudentName(i) > strStudentName(i + 1) Then
+                    'NAMES
+                    strTemporary = strStudentName(i) ' temp = current
+                    strStudentName(i) = strStudentName(i + 1) ' current = next
+                    strStudentName(i + 1) = strTemporary 'next = temp
+                    'SCORES
+                    decTemporary = decStudentScore(i)
+                    decStudentScore(i) = decStudentScore(i + 1)
+                    decStudentScore(i + 1) = decTemporary
+                End If
+            Next
+        Next
         For i = strStudentName.GetLowerBound(0) To strStudentName.GetUpperBound(0)
             rtbStudents.AppendText(strStudentName(i) & vbNewLine)
             rtbScores.AppendText(decStudentScore(i) & vbNewLine)
         Next
-
     End Sub
 
     Private Sub btnStudentsDescnd_Click(sender As Object, e As EventArgs) Handles btnStudentsDescnd.Click
         Dim strStudentName() As String = {"Ambrose", "Bjorn", "Carob", "Daffyth", "Jake"}
         Dim decStudentScore() As Decimal = {82.3, 98.5, 70.0, 89.1, 92.1}
+        Dim strTemporary As String
+        Dim decTemporary As Decimal
         'SORT STUDENTS DESCENDING - just reverse the list, as its already alphabetized.
         rtbScores.Clear()
         rtbStudents.Clear()
-
-        Array.Reverse(strStudentName)
-        Array.Reverse(decStudentScore)
-
+        For j = strStudentName.GetUpperBound(0) - 1 To strStudentName.GetLowerBound(0) Step -1
+            For i = strStudentName.GetUpperBound(0) - 1 To strStudentName.GetLowerBound(0) Step -1
+                If strStudentName(i) < strStudentName(i + 1) Then
+                    'NAMES
+                    strTemporary = strStudentName(i) ' temp = current
+                    strStudentName(i) = strStudentName(i + 1) ' current = next
+                    strStudentName(i + 1) = strTemporary 'next = temp
+                    'SCORES
+                    decTemporary = decStudentScore(i)
+                    decStudentScore(i) = decStudentScore(i + 1)
+                    decStudentScore(i + 1) = decTemporary
+                End If
+            Next
+        Next
         For i = strStudentName.GetLowerBound(0) To strStudentName.GetUpperBound(0)
             rtbStudents.AppendText(strStudentName(i) & vbNewLine)
             rtbScores.AppendText(decStudentScore(i) & vbNewLine)
