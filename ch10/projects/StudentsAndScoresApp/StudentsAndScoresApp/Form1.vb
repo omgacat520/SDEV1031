@@ -7,7 +7,7 @@
         Dim strTemporary As String
         Dim decTemporary As Decimal
 
-        'SORT STUDENTS ASCENDING - list is already alphabetized, so technically could just display names.
+        'SORT STUDENTS ASCENDING - list is already alphabetized, so technically could just display names. -- EDIT: Added sort algorithm.
         rtbScores.Clear()
         rtbStudents.Clear()
         For j = strStudentName.GetLowerBound(0) To strStudentName.GetUpperBound(0) - 1
