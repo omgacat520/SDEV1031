@@ -27,18 +27,18 @@ Partial Class Form1
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
-        Me.MaskedTextBox1 = New System.Windows.Forms.MaskedTextBox()
-        Me.MaskedTextBox2 = New System.Windows.Forms.MaskedTextBox()
-        Me.MaskedTextBox3 = New System.Windows.Forms.MaskedTextBox()
-        Me.MaskedTextBox4 = New System.Windows.Forms.MaskedTextBox()
-        Me.MaskedTextBox5 = New System.Windows.Forms.MaskedTextBox()
-        Me.MaskedTextBox6 = New System.Windows.Forms.MaskedTextBox()
+        Me.mtbThisYear = New System.Windows.Forms.MaskedTextBox()
+        Me.mtbThisMonth = New System.Windows.Forms.MaskedTextBox()
+        Me.mtbThisDay = New System.Windows.Forms.MaskedTextBox()
+        Me.mtbThisHour = New System.Windows.Forms.MaskedTextBox()
+        Me.mtbFutureHour = New System.Windows.Forms.MaskedTextBox()
+        Me.mtbFutureDay = New System.Windows.Forms.MaskedTextBox()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.Label8 = New System.Windows.Forms.Label()
-        Me.Button1 = New System.Windows.Forms.Button()
+        Me.btnExe = New System.Windows.Forms.Button()
         Me.Label9 = New System.Windows.Forms.Label()
-        Me.Label10 = New System.Windows.Forms.Label()
+        Me.lblOutput = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Label1
@@ -91,59 +91,59 @@ Partial Class Form1
         Me.Label5.TabIndex = 4
         Me.Label5.Text = "Hour"
         '
-        'MaskedTextBox1
+        'mtbThisYear
         '
-        Me.MaskedTextBox1.Location = New System.Drawing.Point(55, 46)
-        Me.MaskedTextBox1.Mask = "0000"
-        Me.MaskedTextBox1.Name = "MaskedTextBox1"
-        Me.MaskedTextBox1.Size = New System.Drawing.Size(33, 20)
-        Me.MaskedTextBox1.TabIndex = 5
+        Me.mtbThisYear.Location = New System.Drawing.Point(55, 46)
+        Me.mtbThisYear.Mask = "0000"
+        Me.mtbThisYear.Name = "mtbThisYear"
+        Me.mtbThisYear.Size = New System.Drawing.Size(33, 20)
+        Me.mtbThisYear.TabIndex = 5
         '
-        'MaskedTextBox2
+        'mtbThisMonth
         '
-        Me.MaskedTextBox2.Location = New System.Drawing.Point(55, 72)
-        Me.MaskedTextBox2.Mask = "00"
-        Me.MaskedTextBox2.Name = "MaskedTextBox2"
-        Me.MaskedTextBox2.Size = New System.Drawing.Size(17, 20)
-        Me.MaskedTextBox2.TabIndex = 6
+        Me.mtbThisMonth.Location = New System.Drawing.Point(55, 72)
+        Me.mtbThisMonth.Mask = "00"
+        Me.mtbThisMonth.Name = "mtbThisMonth"
+        Me.mtbThisMonth.Size = New System.Drawing.Size(17, 20)
+        Me.mtbThisMonth.TabIndex = 6
         '
-        'MaskedTextBox3
+        'mtbThisDay
         '
-        Me.MaskedTextBox3.Location = New System.Drawing.Point(55, 98)
-        Me.MaskedTextBox3.Mask = "00"
-        Me.MaskedTextBox3.Name = "MaskedTextBox3"
-        Me.MaskedTextBox3.Size = New System.Drawing.Size(17, 20)
-        Me.MaskedTextBox3.TabIndex = 7
+        Me.mtbThisDay.Location = New System.Drawing.Point(55, 98)
+        Me.mtbThisDay.Mask = "00"
+        Me.mtbThisDay.Name = "mtbThisDay"
+        Me.mtbThisDay.Size = New System.Drawing.Size(17, 20)
+        Me.mtbThisDay.TabIndex = 7
         '
-        'MaskedTextBox4
+        'mtbThisHour
         '
-        Me.MaskedTextBox4.Location = New System.Drawing.Point(55, 124)
-        Me.MaskedTextBox4.Mask = "00"
-        Me.MaskedTextBox4.Name = "MaskedTextBox4"
-        Me.MaskedTextBox4.Size = New System.Drawing.Size(17, 20)
-        Me.MaskedTextBox4.TabIndex = 8
+        Me.mtbThisHour.Location = New System.Drawing.Point(55, 124)
+        Me.mtbThisHour.Mask = "00"
+        Me.mtbThisHour.Name = "mtbThisHour"
+        Me.mtbThisHour.Size = New System.Drawing.Size(17, 20)
+        Me.mtbThisHour.TabIndex = 8
         '
-        'MaskedTextBox5
+        'mtbFutureHour
         '
-        Me.MaskedTextBox5.Location = New System.Drawing.Point(136, 98)
-        Me.MaskedTextBox5.Mask = "00"
-        Me.MaskedTextBox5.Name = "MaskedTextBox5"
-        Me.MaskedTextBox5.Size = New System.Drawing.Size(17, 20)
-        Me.MaskedTextBox5.TabIndex = 12
+        Me.mtbFutureHour.Location = New System.Drawing.Point(137, 72)
+        Me.mtbFutureHour.Mask = "00"
+        Me.mtbFutureHour.Name = "mtbFutureHour"
+        Me.mtbFutureHour.Size = New System.Drawing.Size(17, 20)
+        Me.mtbFutureHour.TabIndex = 12
         '
-        'MaskedTextBox6
+        'mtbFutureDay
         '
-        Me.MaskedTextBox6.Location = New System.Drawing.Point(136, 72)
-        Me.MaskedTextBox6.Mask = "00"
-        Me.MaskedTextBox6.Name = "MaskedTextBox6"
-        Me.MaskedTextBox6.Size = New System.Drawing.Size(17, 20)
-        Me.MaskedTextBox6.TabIndex = 11
+        Me.mtbFutureDay.Location = New System.Drawing.Point(137, 46)
+        Me.mtbFutureDay.Mask = "00"
+        Me.mtbFutureDay.Name = "mtbFutureDay"
+        Me.mtbFutureDay.Size = New System.Drawing.Size(17, 20)
+        Me.mtbFutureDay.TabIndex = 11
         '
         'Label6
         '
         Me.Label6.AutoSize = True
         Me.Label6.BackColor = System.Drawing.SystemColors.Highlight
-        Me.Label6.Location = New System.Drawing.Point(94, 101)
+        Me.Label6.Location = New System.Drawing.Point(95, 75)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(30, 13)
         Me.Label6.TabIndex = 10
@@ -153,7 +153,7 @@ Partial Class Form1
         '
         Me.Label7.AutoSize = True
         Me.Label7.BackColor = System.Drawing.SystemColors.Highlight
-        Me.Label7.Location = New System.Drawing.Point(93, 75)
+        Me.Label7.Location = New System.Drawing.Point(94, 49)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(26, 13)
         Me.Label7.TabIndex = 9
@@ -163,20 +163,20 @@ Partial Class Form1
         '
         Me.Label8.AutoSize = True
         Me.Label8.BackColor = System.Drawing.SystemColors.Highlight
-        Me.Label8.Location = New System.Drawing.Point(94, 49)
+        Me.Label8.Location = New System.Drawing.Point(94, 28)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(109, 13)
         Me.Label8.TabIndex = 13
         Me.Label8.Text = "How far in the future?" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         '
-        'Button1
+        'btnExe
         '
-        Me.Button1.Location = New System.Drawing.Point(16, 145)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(163, 23)
-        Me.Button1.TabIndex = 14
-        Me.Button1.Text = "traverse the fabric of spacetime"
-        Me.Button1.UseVisualStyleBackColor = True
+        Me.btnExe.Location = New System.Drawing.Point(16, 145)
+        Me.btnExe.Name = "btnExe"
+        Me.btnExe.Size = New System.Drawing.Size(163, 23)
+        Me.btnExe.TabIndex = 14
+        Me.btnExe.Text = "traverse the fabric of spacetime"
+        Me.btnExe.UseVisualStyleBackColor = True
         '
         'Label9
         '
@@ -188,34 +188,34 @@ Partial Class Form1
         Me.Label9.TabIndex = 15
         Me.Label9.Text = "Todays date"
         '
-        'Label10
+        'lblOutput
         '
-        Me.Label10.BackColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
-        Me.Label10.Location = New System.Drawing.Point(15, 171)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(188, 57)
-        Me.Label10.TabIndex = 16
-        Me.Label10.Text = "zis be mein output"
-        Me.Label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
-        Me.Label10.Visible = False
+        Me.lblOutput.BackColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
+        Me.lblOutput.Location = New System.Drawing.Point(15, 171)
+        Me.lblOutput.Name = "lblOutput"
+        Me.lblOutput.Size = New System.Drawing.Size(188, 57)
+        Me.lblOutput.TabIndex = 16
+        Me.lblOutput.Text = "zis be mein output"
+        Me.lblOutput.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        Me.lblOutput.Visible = False
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(220, 237)
-        Me.Controls.Add(Me.Label10)
+        Me.Controls.Add(Me.lblOutput)
         Me.Controls.Add(Me.Label9)
-        Me.Controls.Add(Me.Button1)
+        Me.Controls.Add(Me.btnExe)
         Me.Controls.Add(Me.Label8)
-        Me.Controls.Add(Me.MaskedTextBox5)
-        Me.Controls.Add(Me.MaskedTextBox6)
+        Me.Controls.Add(Me.mtbFutureHour)
+        Me.Controls.Add(Me.mtbFutureDay)
         Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.Label7)
-        Me.Controls.Add(Me.MaskedTextBox4)
-        Me.Controls.Add(Me.MaskedTextBox3)
-        Me.Controls.Add(Me.MaskedTextBox2)
-        Me.Controls.Add(Me.MaskedTextBox1)
+        Me.Controls.Add(Me.mtbThisHour)
+        Me.Controls.Add(Me.mtbThisDay)
+        Me.Controls.Add(Me.mtbThisMonth)
+        Me.Controls.Add(Me.mtbThisYear)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label3)
@@ -233,16 +233,16 @@ Partial Class Form1
     Friend WithEvents Label3 As Label
     Friend WithEvents Label4 As Label
     Friend WithEvents Label5 As Label
-    Friend WithEvents MaskedTextBox1 As MaskedTextBox
-    Friend WithEvents MaskedTextBox2 As MaskedTextBox
-    Friend WithEvents MaskedTextBox3 As MaskedTextBox
-    Friend WithEvents MaskedTextBox4 As MaskedTextBox
-    Friend WithEvents MaskedTextBox5 As MaskedTextBox
-    Friend WithEvents MaskedTextBox6 As MaskedTextBox
+    Friend WithEvents mtbThisYear As MaskedTextBox
+    Friend WithEvents mtbThisMonth As MaskedTextBox
+    Friend WithEvents mtbThisDay As MaskedTextBox
+    Friend WithEvents mtbThisHour As MaskedTextBox
+    Friend WithEvents mtbFutureHour As MaskedTextBox
+    Friend WithEvents mtbFutureDay As MaskedTextBox
     Friend WithEvents Label6 As Label
     Friend WithEvents Label7 As Label
     Friend WithEvents Label8 As Label
-    Friend WithEvents Button1 As Button
+    Friend WithEvents btnExe As Button
     Friend WithEvents Label9 As Label
-    Friend WithEvents Label10 As Label
+    Friend WithEvents lblOutput As Label
 End Class
