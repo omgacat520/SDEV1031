@@ -60,7 +60,7 @@
     End Function
 
     Private Function HasLeapYear(ByVal IntDateArray() As Integer, ByVal IntDesiredFutureArray() As Integer, ByVal intFutureDateArray() As Integer)
-
+        'break array units down into hours, add the future values, and then recombine into proper values, and then OUTPUT.EXE.
     End Function
 
     Private Function NoLeapYear(ByVal IntDateArray() As Integer, ByVal IntDesiredFutureArray() As Integer, ByVal intFutureDateArray() As Integer)
