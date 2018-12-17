@@ -3,42 +3,55 @@
     Dim intFutureDateArray(3) As Integer
 
     Private Sub btnExe_Click(sender As Object, e As EventArgs) Handles btnExe.Click
-        Dim intDateArray(3) As Integer
-        intDateArray(0) = mtbThisHour.Text
-        intDateArray(1) = mtbThisDay.Text
-        intDateArray(2) = mtbThisMonth.Text
-        intDateArray(3) = mtbThisYear.Text
+        If mtbThisHour.Text.Length = 0 Then
+            MessageBox.Show("All inputs need to be filled out.", "try again", MessageBoxButtons.OK, MessageBoxIcon.Error)
+        ElseIf mtbThisDay.Text.Length = 0 Then
+            MessageBox.Show("All inputs need to be filled out.", "try again", MessageBoxButtons.OK, MessageBoxIcon.Error)
+        ElseIf mtbThisMonth.Text.Length = 0 Then
+            MessageBox.Show("All inputs need to be filled out.", "try again", MessageBoxButtons.OK, MessageBoxIcon.Error)
 
-        Dim intDesiredFutureArray(1) As Integer
-        intDesiredFutureArray(0) = mtbFutureHour.Text
-        intDesiredFutureArray(1) = mtbFutureDay.Text
+        ElseIf mtbThisYear.Text.Length = 0 Then
+            MessageBox.Show("All inputs need to be filled out.", "try again", MessageBoxButtons.OK, MessageBoxIcon.Error)
 
-        intFutureDateArray = {0, 0, 0, 0}
+        ElseIf mtbFutureHour.Text.Length = 0 Then
+            MessageBox.Show("All inputs need to be filled out.", "try again", MessageBoxButtons.OK, MessageBoxIcon.Error)
+        ElseIf mtbFutureHour.Text.Length = 0 Then
+            MessageBox.Show("All inputs need to be filled out.", "try again", MessageBoxButtons.OK, MessageBoxIcon.Error)
+        Else
+
+            Dim intDateArray(3) As Integer
+            intDateArray(0) = mtbThisHour.Text
+            intDateArray(1) = mtbThisDay.Text
+            intDateArray(2) = mtbThisMonth.Text
+            intDateArray(3) = mtbThisYear.Text
+
+            Dim intDesiredFutureArray(1) As Integer
+            intDesiredFutureArray(0) = mtbFutureHour.Text
+            intDesiredFutureArray(1) = mtbFutureDay.Text
+
+            intFutureDateArray = {0, 0, 0, 0}
 
 
-        'NEED TO REMAKE DATA VALIDATION
 
-        'CODE GOES HERE
-        Call DoTheStuff(intDateArray, intDesiredFutureArray, intFutureDateArray)
-        Call subOutput(intFutureDateArray)
+            'CODE GOES HERE
+            Call DoTheStuff(intDateArray, intDesiredFutureArray, intFutureDateArray)
+            Call subOutput(intFutureDateArray)
+        End If
     End Sub
     Private Sub DoTheStuff(ByVal IntDateArray() As Integer, ByVal IntDesiredFutureArray() As Integer, ByVal intFutureDateArray() As Integer)
 
         Dim boolIsLeap As Boolean ' this determines whether its a leap year, and then defines it for future code
-        If IntDateArray(3) Mod 4 = 0 Then
-            boolIsLeap = True
-        Else
-            boolIsLeap = False
-        End If
+
+        Call isLeapYearQ(IntDateArray, boolIsLeap)
+
+        Dim intFebruary As Integer
 
         If boolIsLeap = True Then 'Has 29 days in february
-            Call HasLeapYear(IntDateArray, IntDesiredFutureArray, intFutureDateArray)
+            intFebruary = 29
         Else 'has 28 days in february
-            Call NoLeapYear(IntDateArray, IntDesiredFutureArray, intFutureDateArray)
+            intFebruary = 28
         End If
-    End Sub
 
-    Private Sub HasLeapYear(ByVal IntDateArray() As Integer, ByVal IntDesiredFutureArray() As Integer, ByVal intFutureDateArray() As Integer)
         'THIS ONE INCLUDES LEAP YEARS
         'compare units to maximum values, and if they exceed maximums, then add to next largest denomination, like a cash register.
         'Depending on the month, take day value (24 hrs) and multiply by number of days.
@@ -60,13 +73,13 @@
         Dim intWhatMonth As Integer 'temporary variable
         Select Case intFutureDateArray(2)
                 'Checks how many days per month
-                Case Is = 1 Or 3 Or 5 Or 7 Or 8 Or 10 Or 12 '31 day months
-                    intWhatMonth = 31
-                Case Is = 2 'february / leap year month
-                    intWhatMonth = 29
-                Case Is = 4 Or 6 Or 9 Or 11 '30 day months
-                    intWhatMonth = 30
-            End Select
+            Case Is = 1, 3, 5, 7, 8, 10, 12 '31 day months
+                intWhatMonth = 31
+            Case Is = 2 'february / leap year month
+                intWhatMonth = intFebruary
+            Case Is = 4, 6, 9, 11 '30 day months
+                intWhatMonth = 30
+        End Select
 
         If intFutureDateArray(1) > intWhatMonth Then
             Do Until intFutureDateArray(1) <= intWhatMonth
@@ -86,17 +99,21 @@
             End If
         Next
 
-        Debug.WriteLine("returning with " & intFutureDateArray(0) & " As hours and " & intFutureDateArray(1) & " as days " & intFutureDateArray(2) & " as months and " & intFutureDateArray(3) & " as years")
-
     End Sub
 
-    Private Function NoLeapYear(ByVal IntDateArray() As Integer, ByVal IntDesiredFutureArray() As Integer, ByVal intFutureDateArray() As Integer)
+    Private Function isLeapYearQ(ByRef intDateArray As Integer(), ByRef boolIsLeap As Boolean)
 
+        If intDateArray(3) Mod 4 = 0 Then
+            boolIsLeap = True
+            Return boolIsLeap
+        Else
+            boolIsLeap = False
+            Return boolIsLeap
+        End If
     End Function
 
     Private Sub subOutput(intAnotherFutureDateArray() As Integer)
         lblOutput.Text = (intAnotherFutureDateArray(0) & ":00 Military Time on " & intAnotherFutureDateArray(2) & "/" & intAnotherFutureDateArray(1) & "/" & intAnotherFutureDateArray(3))
-        Debug.WriteLine("Finish with a intFutureDate array of " & intAnotherFutureDateArray(0) & " Hours, " & intAnotherFutureDateArray(1) & " Days, " & intAnotherFutureDateArray(2) & " Months, " & intAnotherFutureDateArray(3) & " Years.")
         lblOutput.Visible = True
     End Sub
 End Class
